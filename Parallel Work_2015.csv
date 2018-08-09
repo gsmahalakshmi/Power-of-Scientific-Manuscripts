@@ -1,0 +1,982 @@
+Source,Target,Title,Year,Rhetorics,
+BasePaper,BasePaper,An index to quantify an individual's scientific research output,2012,--,--
+BasePaper,2015_45_8,PUBLIC HEALTH SERVICES: BIBLIOMETRIC STUDY OF SCIENTIFIC LITERATURE FROM THE PERSPECTIVE OF INNOVATION IN SERVICES IN PRIMARY  …,2015,Weak,negative
+BasePaper,2015_42_2,Bibliometric study of the relationship between business model and air transport,2015,Puse,negative
+BasePaper,2015_54_7,EVALUATION OF SCIENTIFIC PAPERS BY MEANS OF NEW ALGORITHM ARTICLERANK,2015,Puse,positive
+BasePaper,2015_60_10,Perspectives of patients about bioabsorbable internal fixation for maxillofacial fractures,2015,Puse,positive
+BasePaper,2015_11_7,An evaluation based on highly cited publications in Taiwan,2015,Puse,positive
+BasePaper,2015_25_1,"Spine fellowships, ESPN rankings, and the AP Top 25",2015,Puse,negative
+BasePaper,2015_25_6,Advances in Knowledge Discovery and Data Mining,2015,Puse,positive
+BasePaper,2015_1_6,The Biological Records Centre: a pioneer of citizen science,2015,Puse,positive
+BasePaper,2015_54_9,""" Die siel van die mier"": Reflections on the battle for'scholarly'intelligence",2015,Puse,positive
+BasePaper,2015_15_1,Using heterogeneous patent network features to rank and discover influential inventors,2015,Puse,positive
+BasePaper,2015_29_3,Policy Incentives and Research Productivity in the Romanian Higher Education. An Institutional Approach,2015,Puse,positive
+BasePaper,2015_5_10,Do PageRank-based author rankings outperform simple citation counts?,2015,Puse,positive
+BasePaper,2015_51_10,A scientometric analysis of 15 years of CHINZ conferences,2015,Puse,neutral
+BasePaper,2015_34_3,Bibliometric rankings of journals based on the Thomson Reuters citations database,2015,Puse,positive
+BasePaper,2015_5_7,Improving chemical entity recognition through h-index based semantic similarity,2015,Puse,neutral
+BasePaper,2015_39_6,An analysis of the relationship between academic impact and social media influence,2015,Puse,positive
+BasePaper,2015_35_2,Impact of subspecialty fellowship training on research productivity among academic plastic surgery faculty in the United States,2015,Puse,positive
+BasePaper,2015_44_5,Metrics and Visualizations in the Astrophysics Data System,2015,Puse,positive
+BasePaper,2015_41_10,Learning experts' preferences from informetric data.,2015,Puse,positive
+BasePaper,2015_20_6,An updated h-index measures both the primary and total scientific output of a researcher,2015,Puse,positive
+BasePaper,2015_2_1,Ranking games,2015,Puse,positive
+BasePaper,2015_46_2,New Methods and Evaluation Criteria of Research Efficiency,2015,Puse,neutral
+BasePaper,2015_49_9,Analyzing and modeling groups,2015,Puse,neutral
+BasePaper,2015_43_9,Spread and Skepticism: Metrics of Propagation on Twitter,2015,Puse,positive
+BasePaper,2015_31_7,Assessing Faculty Productivity by Research Impact: Introducing Dp2 Index,2015,Puse,positive
+BasePaper,2015_55_7,The Semantic Web Journal as Linked Data.,2015,Puse,positive
+BasePaper,2015_25_7,Data mining citation databases: A new index measure that predicts nobel prizewinners,2015,Puse,neutral
+BasePaper,2015_42_7,"December 7, 2015",2015,Puse,positive
+BasePaper,2015_18_10,CITEX: A new citation index to measure the relative importance of authors and papers in scientific publications,2015,Puse,positive
+BasePaper,2015_48_6,"The output of researchers in Morocco compared to some North African countries from 1996 to 2012, and its relationship to governmental major decisions on higher  …",2015,Puse,neutral
+BasePaper,2015_21_1,The h-index in Academic Morphology,2015,Puse,positive
+BasePaper,2015_49_6,Development of bibliometrics in Colombia,2015,Puse,positive
+BasePaper,2015_18_9,Tc-index: A new research productivity index based on evolving communities,2015,Puse,positive
+BasePaper,2015_10_6,Anatomy of funded research in science,2015,Puse,neutral
+BasePaper,2015_47_3,The SSCI Syndrome in Higher Education: A Local or Global Phenomenon by Chuing Prudence Chou (review),2015,Puse,positive
+BasePaper,2015_10_4,Do quantitative measures of research productivity correlate with academic rank in oral and maxillofacial surgery?,2015,Puse,positive
+BasePaper,2015_54_10,Publication Measures of Scholarly Productivity: Norms for Academic Pediatric Pulmonologists,2015,Puse,negative
+BasePaper,2015_12_1,Bibliometric indicators: opportunities and limits,2015,Puse,positive
+BasePaper,2015_4_7,Structuring the Technology Entrepreneurship publication landscape: Making sense out of chaos,2015,Puse,positive
+BasePaper,2015_55_4,Applying Sabermetrics to Academic Otolaryngology,2015,Puse,positive
+BasePaper,2015_29_6,Evaluating the merit of research in clinical cardiology: from citation to declaration,2015,Puse,positive
+BasePaper,2015_29_8,Bibliometric analyses of physical and occupational therapy faculty across canada indicate productivity and impact of rehabilitation research,2015,Puse,positive
+BasePaper,2015_15_9,Scholarly investigation into otitis media: who is receiving funding support from the National Institutes of Health?,2015,Puse,neutral
+BasePaper,2015_41_7,Initiative for an H-index based Rating of Conferences and Journals in HCI and Related Fields,2015,Puse,positive
+BasePaper,2015_50_3,An IS Scholar and Scholarship Ranking Based on Contributions to Doctoral Education,2015,Puse,positive
+BasePaper,2015_53_9,"Provably Correct Systems: Community, connections, and citations",2015,Puse,positive
+BasePaper,2015_55_6,C-Index as a Quantitative Index to Measure Individual Academic Achievement in China,2015,Puse,positive
+BasePaper,2015_17_1,The role of chairman and research director in influencing scholarly productivity and research funding in academic orthopaedic surgery,2015,Puse,positive
+BasePaper,2015_4_3,Global methaemoglobinaemia research output (1940–2013): a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_19_3,Geo-social ranking: functions and query processing,2015,Puse,positive
+BasePaper,2015_34_10,Measuring technological performance of assignees using trace metrics in three fields,2015,Puse,neutral
+BasePaper,2015_53_6,"ASSESSING A KNOWLEDGE PRODUCTION SYSTEM FOR EVIDENCE-BASED STUDIES: TERRORISM RESEARCH, 1992-2013",2015,Puse,positive
+BasePaper,2015_21_5,Prediction of junior faculty success in biomedical research: Comparison of metrics and effects of mentoring programs,2015,Puse,positive
+BasePaper,2015_34_4,"Impact of Self-Citations on Impact Factor: A Study Across Disciplines, Countries and Continents",2015,Puse,positive
+BasePaper,2015_29_7,Author credit for transdisciplinary collaboration,2015,Puse,neutral
+BasePaper,2015_48_5,Ranking the Leading Journals in Finance and Accounting Based on Quantity and Quality Citations,2015,Puse,positive
+BasePaper,2015_49_8,Growth and collaboration trends in the field of fashion technology a scientometric analysis,2015,Puse,positive
+BasePaper,2015_40_10,Scientific publications in pediatrics over the last ten years in Turkey and worldwide.,2015,Puse,positive
+BasePaper,2015_6_1,A descriptive and historical review of bibliometrics with applications to medical sciences,2015,Puse,positive
+BasePaper,2015_32_9,Supporting Scholars: An Analysis of Academic Library Websites' Documentation on Metrics and Impact,2015,Puse,positive
+BasePaper,2015_40_9,Effective Citation Recommendation by Unbiased Reference Priority Recognition,2015,Puse,positive
+BasePaper,2015_45_10,The Altmetric Score: A New Measure for Article-Level Dissemination and Impact,2015,Puse,positive
+BasePaper,2015_30_3,"Citation Differences between ABC Journals and Related, but, Unaffiliated Quality Journals",2015,Puse,positive
+BasePaper,2015_9_1,The elevation of annals of rehabilitation medicine to the status of an international journal after adopting an English-only policy,2015,Puse,positive
+BasePaper,2015_30_7,National Institutes of Health Funding for Obstructive Sleep Apnea: An Opportunity for Otolaryngologists,2015,Puse,neutral
+BasePaper,2015_48_10,Sugeno integral-based confidence intervals for the theoretical h-index,2015,Puse,positive
+BasePaper,2015_59_1,A Characterization of the Strategic Management Journal Best Paper Prize 1993-2014 through Bibliometric Indicators,2015,Puse,positive
+BasePaper,2015_47_5,Networked Knowledge,2015,Puse,neutral
+BasePaper,2015_54_4,Interpolated sub-impact factor (SIF) sequences for journal rankings,2015,Puse,positive
+BasePaper,2015_51_4,Tenure Analytics: Models for Predicting Research Impact,2015,Puse,positive
+BasePaper,2015_41_5,Social network analysis for predicting emerging researchers,2015,Puse,positive
+BasePaper,2015_7_9,Predicting results of the Research Excellence Framework using departmental h-index,2015,Puse,neutral
+BasePaper,2015_24_3,Object-based relationship search using a plurality of sub-queries,2015,Puse,positive
+BasePaper,2015_58_8,"Research Assessment Using Bibliometric and Scientometric Measures: The Good, the Bad, and the Ugly",2015,Puse,negative
+BasePaper,2015_23_6,Unsupervised characterization of research institutions with task-force estimation,2015,Puse,positive
+BasePaper,2015_20_7,Measuring the attractiveness of academic journals: A direct influence aggregation model,2015,Puse,neutral
+BasePaper,2015_61_7,Trend-Based Citation Count Prediction for Research Articles,2015,Puse,positive
+BasePaper,2015_23_8,"Using citation indexes, citation searching, and bibliometrics to improve chemistry scholarship, research, and administration",2015,Puse,positive
+BasePaper,2015_8_4,"Educational Expertise, Advocacy, and Media Influence.",2015,Puse,positive
+BasePaper,2015_53_10,El Índice h en la Morfología Académica,2015,Puse,positive
+BasePaper,2015_25_5,Assessing and developing early careers in academic research: how can we improve the current systems?,2015,Puse,positive
+BasePaper,2015_6_4,The Altmetric Score: a new measure for article-level dissemination and impact,2015,Puse,positive
+BasePaper,2015_32_10,"The"" Black-Box"" of Institutional Scores: Analyzing the Distribution of the Values of the H and G Indexes in Medicine Schools in Romania",2015,Puse,negative
+BasePaper,2015_55_10,Performance and legitimation in political research,2015,Puse,neutral
+BasePaper,2015_20_2,What drives the relevance and reputation of economics journals? An update from a survey among economists,2015,Puse,positive
+BasePaper,2015_40_6,"Measurement of environmental external gamma radiation dose rate outside the dwellings of southern coastal Odisha, eastern India",2015,Puse,positive
+BasePaper,2015_52_2,Innovations in Measuring Science and Scholarship,2015,Puse,positive
+BasePaper,2015_21_4,Considering context in academic medicine: Differences in demographic and professional characteristics and in research productivity and advancement metrics across  …,2015,Puse,positive
+BasePaper,2015_26_5,OR Forum—Tenure analytics: Models for predicting research impact,2015,Puse,positive
+BasePaper,2015_26_6,S-index: towards better metrics for quantifying research impact,2015,Puse,positive
+BasePaper,2015_14_8,Unraveling scientific impact: Citation types in marketing journals,2015,Puse,positive
+BasePaper,2015_39_8,"Correlation analysis for comparison of the citation impact of journals, magazines, and conferences in computer science",2015,Puse,positive
+BasePaper,2015_48_2,Scientific research measures,2015,Puse,positive
+BasePaper,2015_45_6,Impact Aspirations of MIS Journals: An Ontological Analysis,2015,Puse,positive
+BasePaper,2015_14_7,Social Computing for Impact Assessment of Social Change Projects,2015,Puse,positive
+BasePaper,2015_11_4,Relationship between category size and journals' impact factor: Implications for emergency medicine journals and researchers,2015,Puse,neutral
+BasePaper,2015_16_8,Gender differences in scholarly productivity within academic gynecologic oncology departments,2015,Puse,neutral
+BasePaper,2015_60_7,Two geographic information system-linked bibliometric indices to quantify the knowledge flow: A case of Qinghai-Tibet plateau research,2015,Puse,positive
+BasePaper,2015_20_8,Scientometric mapping of research on 'Big Data',2015,Puse,positive
+BasePaper,2015_3_7,Way forward for alternative energy research: A bibliometric analysis during 1994–2013,2015,Puse,positive
+BasePaper,2015_60_2,Finding Implicit Citations in Scientific Publications: Improvements to Citation Context Detection Methods,2015,Puse,positive
+BasePaper,2015_44_3,Citation network based framework for ranking academic Publications and venues,2015,Puse,positive
+BasePaper,2015_9_10,Quality versus quantity in scientific impact,2015,Puse,positive
+BasePaper,2015_43_7,X-centage: a Hirsch-inspired indicator for distributions of percentage-valued variables and its use for measuring heterodisciplinarity,2015,Puse,positive
+BasePaper,2015_50_4,A Python Based Regression Script to Evaluate Dependency of H-Index of Journals on Various Citation Parameters,2015,Puse,positive
+BasePaper,2015_33_7,Editorial: A lasting impact,2015,Puse,negative
+BasePaper,2015_4_1,Scholarly Productivity and National Institutes of Health Funding of Foundation for Anesthesia Education and Research Grant RecipientsInsights from a  …,2015,Puse,neutral
+BasePaper,2015_53_5,The Characteristic Analysis of Researches Network for Journal of Korean Neuropsychiatric Association,2015,Puse,positive
+BasePaper,2015_32_6,Research on Tribology in Southeastern Europe: A Bibliometric Study,2015,Puse,positive
+BasePaper,2015_56_4,UNESCO SCIENCE REPORT,2015,Puse,neutral
+BasePaper,2015_5_3,A flexible bibliometric approach for the assessment of professorial appointments,2015,Puse,positive
+BasePaper,2015_53_3,Bibliometric author evaluation through linear regression on the coauthor network,2015,Puse,negative
+BasePaper,2015_41_6,A theoretical model of scientific impact based on citations,2015,Puse,neutral
+BasePaper,2015_7_8,Poorly Cited Articles in Peer-Reviewed Cardiovascular Journals from 1997-2007: Analysis of 5-Year Citation Rates,2015,Puse,positive
+BasePaper,2015_24_7,Unravelling the performance of individual scholars: Use of Canonical Biplot analysis to explore the performance of scientists by academic rank and scientific field,2015,Puse,positive
+BasePaper,2015_9_6,Academic productivity and contributions to the literature among spine surgery fellowship faculty,2015,Puse,positive
+BasePaper,2015_45_7,A bibliometric analysis of lab-on-a-chip research from 2001 to 2013,2015,Puse,positive
+BasePaper,2015_24_6,Average evaluation intensity: A quality-oriented indicator for the evaluation of research performance,2015,Puse,positive
+BasePaper,2015_45_1,"Authorship, patents, citations, acknowledgments, tweets, reader counts and the multifaceted reward system of science",2015,Puse,positive
+BasePaper,2015_6_3,The bibliometric analysis of scholarly production: How great is the impact?,2015,Puse,positive
+BasePaper,2015_52_5,Bibliometric Study of the Literature on Ebola Virus Research,2015,Puse,positive
+BasePaper,2015_46_5,Evaluating popularity data for relevance ranking in library information systems,2015,Puse,positive
+BasePaper,2015_50_7,Ideologies of Supreme Court Justices: Quantitative Thematic Analysis of Multiple Opinions of “Bush v. Gore 2000”,2015,Puse,positive
+BasePaper,2015_10_7,Prioritising infectious disease mapping,2015,Puse,positive
+BasePaper,2015_5_4,"Past, current and future of biomass energy research: A bibliometric analysis",2015,Puse,positive
+BasePaper,2015_41_3,"Unveiling the Co-Word Structures Among Mobile Computing, Mobile Commerce and Mobile Application Research: a Science Mapping Analysis",2015,Puse,neutral
+BasePaper,2015_12_3,Anatomy of scientific evolution,2015,Puse,neutral
+BasePaper,2015_9_3,A bibliometric analysis of the Turkish software engineering research community,2015,Puse,positive
+BasePaper,2015_31_4,On a formula for the h-index,2015,Puse,positive
+BasePaper,2015_41_8,Involvement and productivity of research and development workers: A case study of a publicly-funded research laboratory,2015,Puse,positive
+BasePaper,2015_55_1,Article and Author Level Measurements,2015,Puse,positive
+BasePaper,2015_50_1,Cheminformatics Research at the Unilever Centre for Molecular Science Informatics Cambridge,2015,Puse,positive
+BasePaper,2015_40_7,"Research, publication and their relevance",2015,Puse,positive
+BasePaper,2015_5_6,Research productivity in top-ranked schools in psychology and social work: Does having a research culture matter?,2015,Puse,positive
+BasePaper,2015_12_7,Use case oriented medical visual information retrieval & system evaluation,2015,Puse,positive
+BasePaper,2015_45_2,BIBLIOMETRIC ANALYSIS OF THE JOURNAL OF LAW AND SOCIETY: A THIRTY ONE YEAR'S STUDY FROM 1982-2012,2015,Puse,positive
+BasePaper,2015_2_5,A bibliometric overview of the Journal of Business Research between 1973 and 2014,2015,Puse,positive
+BasePaper,2015_59_9,Measuring the Performance of Research Organizations,2015,Puse,positive
+BasePaper,2015_3_4,"The use of bibliometrics for assessing research: possibilities, limitations and adverse effects",2015,Puse,negative
+BasePaper,2015_56_5,Health Services and Outcomes Research,2015,Puse,positive
+BasePaper,2015_33_5,The Pareto Principle Is Everywhere: Finding Informative Sentences for Opinion Summarization Through Leader Detection,2015,Puse,negative
+BasePaper,2015_60_4,Assessing the Validity of Business and Management Journals Ranking List: An Alternative Approach for Determining Journal Quality,2015,Puse,positive
+BasePaper,2015_17_8,Scientific research of senior Italian academics of occupational medicine: a citation analysis of products published during the decade 2001–2010,2015,Puse,positive
+BasePaper,2015_33_3,Toxicological Sciences: Measuring the true impact of the journal,2015,Puse,negative
+BasePaper,2015_3_2,"A comparison of 17 author-level bibliometric indicators for researchers in Astronomy, Environmental Science, Philosophy and Public Health in Web of Science and  …",2015,Puse,positive
+BasePaper,2015_29_5,Procedures vs. Incentives: The Case of the University Promotion System in Italy,2015,Puse,positive
+BasePaper,2015_53_7,Exploiting heterogeneous scientific literature networks to combat ranking bias: Evidence from the computational linguistics area,2015,Puse,negative
+BasePaper,2015_57_6,DYNAMIC CAPABILITIES AND ORGANIZATIONAL STRATEGY: A Panorama about the Studies on This Subject in Two Decades (1995–2014),2015,Puse,neutral
+BasePaper,2015_25_9,Ranking scientific journals via latent class models for polytomous item response data,2015,Puse,positive
+BasePaper,2015_58_7,Technological change as evolving citation networks: The analysis of proton exchange membrane fuel cell,2015,Puse,neutral
+BasePaper,2015_6_10,The power of repetition: repetitive lyrics in a song increase processing fluency and drive market success,2015,Puse,neutral
+BasePaper,2015_32_1,The most-cited articles of the 21 st century,2015,Puse,positive
+BasePaper,2015_61_2,The Assessment of the EPQ Parameter for Detecting H-Index Manipulation and the Analysis of Scientific Publications,2015,Puse,positive
+BasePaper,2015_24_8,Quantitative and qualitative STS: The intellectual and practical contributions of scientometrics,2015,Puse,positive
+BasePaper,2015_24_5,A Bibliometric Study on Growth of Research in an Indian Medical College,2015,Puse,positive
+BasePaper,2015_31_9,A Model for Publication and Citation Statistics of Individual Authors.,2015,Puse,positive
+BasePaper,2015_13_6,A quantitative examination of the intellectual profile and evolution of information security from 1965 to 2015,2015,Puse,positive
+BasePaper,2015_1_3,A review of theory and practice in scientometrics,2015,Puse,positive
+BasePaper,2015_54_3,Current Position and Future Milestones of Research in the Field of Anesthesiology in Iran,2015,Puse,positive
+BasePaper,2015_21_10,Defining the role of cognitive distance in the peer review process with an explorative study of a grant scheme in infection biology,2015,Puse,neutral
+BasePaper,2015_4_6,Analyzing the scientific evolution of social work using science mapping,2015,Puse,positive
+BasePaper,2015_58_3,Building the evidence for social work practice,2015,Puse,positive
+BasePaper,2015_26_7,Analytic hierarchy process and supply chain management: A bibliometric study,2015,Puse,positive
+BasePaper,2015_25_10,How to conduct a multi-item research assessment in bibliometric studies? Theoretical support and empirical evidence,2015,Puse,positive
+BasePaper,2015_55_9,Coherence analysis of research and education using topic modeling,2015,Puse,neutral
+BasePaper,2015_20_4,"Academic impact rankings of neurosurgical units in the UK and Ireland, as assessed with the h-index",2015,Puse,positive
+BasePaper,2015_32_5,"Influential Global Perspectives on Accounting Education articles, authors, and university faculties: A citation analysis",2015,Puse,positive
+BasePaper,2015_46_7,Research productivity of agricultural scientists: Evidences from high performing and low performing institutes,2015,Puse,positive
+BasePaper,2015_44_10,"A citation-based, author-and age-normalized, logarithmic index for evaluation of individual researchers independently of publication counts",2015,Puse,negative
+BasePaper,2015_43_4,Co-authorship and the Measurement of Individual Productivity,2015,Puse,positive
+BasePaper,2015_35_6,The use of fuzzy relations in the assessment of information resources producers' performance,2015,Puse,positive
+BasePaper,2015_6_9,Scientific publications from Arab world in leading journals of Integrative and Complementary Medicine: a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_25_2,Leading universities in Latin America in business and management research,2015,Puse,neutral
+BasePaper,2015_51_6,An aggregated index for assessment of the scientific output of researchers,2015,Puse,positive
+BasePaper,2015_39_9,Conferences vs. journals in computer science,2015,Puse,positive
+BasePaper,2015_60_6,"Impact of Public Funding on the Development of Nanotechnology: A Comparison of Quebec, Canada and the US",2015,Puse,positive
+BasePaper,2015_51_8,"Sentiment, Polarity and Function Analysis in Bibliometrics: A Review",2015,Puse,positive
+BasePaper,2015_16_2,Restricting the h-index to a publication and citation time window: A case study of a timed Hirsch index,2015,Puse,neutral
+BasePaper,2015_4_9,"Scientific research related to calcium channel blockers poisoning: Bibliometric analysis in Scopus, 1968–2012",2015,Puse,positive
+BasePaper,2015_35_7,Impact factor: what is it and is it still relevant?,2015,Puse,positive
+BasePaper,2015_13_3,Multi-criteria group individual research output evaluation based on context-free grammar judgments with assessing attitude,2015,Puse,positive
+BasePaper,2015_59_2,Academic Performance of Professors in Economic Field. Comparative Study by Romania Regions,2015,Puse,neutral
+BasePaper,2015_60_1,Knowledge Communication Analysis Based on Clustering and Association Rules Mining,2015,Puse,positive
+BasePaper,2015_52_3,"Helping Top Talent to Thrive: The Significance of Relational Capacity, Teamwork and Organizational Support",2015,Puse,positive
+BasePaper,2015_17_9,Making science: New generations of collaborative knowledge production,2015,Puse,negative
+BasePaper,2015_39_7,Research status and trend analysis of global biomedical text mining studies in recent 10 years,2015,Puse,neutral
+BasePaper,2015_32_3,Ranking computer science conferences using self-organizing maps with dynamic node splitting,2015,Puse,positive
+BasePaper,2015_53_4,A Framework for Big Data Analytics as a Scalable Systems,2015,Puse,neutral
+BasePaper,2015_42_1,The Association of the H-Index and Academic Rank Among Full-Time Academic Hand Surgeons Affiliated With Fellowship Programs,2015,Puse,positive
+BasePaper,2015_10_1,Quality assessment of Wikipedia articles using h-index,2015,Puse,negative
+BasePaper,2015_22_8,Evolution of a Ranking Algorithm for Scientific Documents in the Computer Science Area,2015,Puse,positive
+BasePaper,2015_43_5,Predicting citation counts of papers,2015,Puse,positive
+BasePaper,2015_48_9,A new ranking scheme for the institutional scientific performance,2015,Puse,positive
+BasePaper,2015_34_9,"The cock, the Academy, and the best scientific journal in the world",2015,Puse,positive
+BasePaper,2015_5_5,The association of the H-index and academic rank among full-time academic hand surgeons affiliated with fellowship programs,2015,Puse,neutral
+BasePaper,2015_66_2,H,2015,Puse,neutral
+BasePaper,2015_8_10,"Data Fusion: Theory, Methods, and Applications",2015,Puse,positive
+BasePaper,2015_61_3,A comparative study of Ocean Engineering research between China and the world,2015,Puse,neutral
+BasePaper,2015_17_3,A bibliometric analysis of scholarly work in leading tourism and hospitality journals: the case of Turkey,2015,Puse,positive
+BasePaper,2015_11_9,Current dynamics of scholarly publishing,2015,Puse,negative
+BasePaper,2015_27_1,The distribution of the asymptotic number of citations to sets of publications by a researcher or from an academic department are consistent with a discrete  …,2015,Puse,positive
+BasePaper,2015_31_6,How ICT will Influence Public Administration as a Scholarly Discipline,2015,Puse,negative
+BasePaper,2015_42_3,Funding shapes the anatomy of scientific research,2015,Puse,neutral
+BasePaper,2015_54_5,Evaluation of h-and g-indices of Scientific Authors using Modified K-Means Clustering Algorithm,2015,Puse,positive
+BasePaper,2015_19_1,The answer is not 42,2015,Puse,positive
+BasePaper,2015_33_2,Citation indices: Measuring the'impact'of published work,2015,Puse,positive
+BasePaper,2015_30_1,Moving beyond counting publications to assess impact,2015,Puse,positive
+BasePaper,2015_57_10,MODEL AND INDIVIDUAL QUALITY METRICS OF SCIENTIFIC PUBLICATIONS,2015,Puse,positive
+BasePaper,2015_16_3,Motivation and research productivity in a university system undergoing transition,2015,Puse,neutral
+BasePaper,2015_4_8,Economics in Latin America: a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_43_3,On house renovation and coauthoring: tricks of the trade to boost your h-index,2015,Puse,positive
+BasePaper,2015_35_3,A comprehensive analysis of the first ten editions of the WEBIST conference,2015,Puse,positive
+BasePaper,2015_4_4,"A generalized view of self-citation: Direct, co-author, collaborative, and coercive induced self-citation",2015,Puse,positive
+BasePaper,2015_48_1,Using scientific indices to evaluate the journal quality,2015,Puse,positive
+BasePaper,2015_33_6,Analysis of academic productivity based on Complex Networks,2015,Puse,positive
+BasePaper,2015_57_9,Scientific production and bibliometric impact of a representative group of Spanish internists with established research careers,2015,Puse,positive
+BasePaper,2015_56_8,SEVERAL CHARACTERISTICS OF EXISTING AUTOMATED SYSTEMS ACCORDING TO SURVEY OF RUSSIAN SCIENTISTS PUBLISHING ACTIVITY,2015,Puse,neutral
+BasePaper,2015_2_2,"Increasing disparities between resource inputs and outcomes, as measured by certain health deliverables, in biomedical research",2015,Puse,neutral
+BasePaper,2015_11_10,"Understanding the scientific enterprise: citation analysis, data and modeling",2015,Puse,positive
+BasePaper,2015_46_8,Finding seminal scientific publications with graph mining,2015,Puse,neutral
+BasePaper,2015_51_2,Expert Witness Testimony in Ophthalmology Malpractice Litigation,2015,Puse,positive
+BasePaper,2015_59_10,Representation of Ordinal Preferences over Infinite Products,2015,Puse,positive
+BasePaper,2015_19_6,SCIENTOMETRIC ANALYSIS OF IEEE TRANSACTIONS ON POWER ELECTRONICS,2015,Puse,negative
+BasePaper,2015_16_1,Impact-oriented science policies and scientific publication practices: The case of life sciences in Japan,2015,Puse,positive
+BasePaper,2015_34_7,Bibliometric analysis of research on microcystins in China and worldwide from 1991 to 2011,2015,Puse,positive
+BasePaper,2015_1_8,Measuring academic influence: Not all citations are equal,2015,Puse,negative
+BasePaper,2015_32_7,t factor: A metric for measuring impact on Twitter,2015,Puse,positive
+BasePaper,2015_31_2,Worldwide research productivity in emergency contraception: a bibliometric analysis,2015,Puse,neutral
+BasePaper,2015_60_5,Density equalizing mapping of the global tuberculosis research architecture,2015,Puse,positive
+BasePaper,2015_28_9,“Platinum H”: Refining the H-Index to More Realistically Assess Career Trajectory and Scientific Publications,2015,Puse,positive
+BasePaper,2015_13_9,The missing metric: quantifying contributions of reviewers,2015,Puse,positive
+BasePaper,2015_14_1,Leadership in learning and teaching in higher education: Perspectives of academics in non-formal leadership roles,2015,Puse,positive
+BasePaper,2015_17_6,Citation impact scores of top African American scholars in social work schools: The story behind the data,2015,Puse,neutral
+BasePaper,2015_61_1,Does Quantity Make a Difference? The importance of publishing many papers,2015,Puse,positive
+BasePaper,2015_18_4,Ranking Romanian academic departments in three fields of study using the g-index,2015,Puse,negative
+BasePaper,2015_8_6,The role of academic collaboration in the impact of Latin-American research on management,2015,Puse,neutral
+BasePaper,2015_35_9,Constructing conceptual trajectory maps to trace the development of research fields,2015,Puse,positive
+BasePaper,2015_34_6,"Natural Language Processing, Article Content & Bibliometrics: Predicting High Impact Science",2015,Puse,positive
+BasePaper,2015_1_2,Defining and identifying Sleeping Beauties in science,2015,Puse,negative
+BasePaper,2015_10_5,Do Nobel laureates create prize-winning networks? An analysis of collaborative research in physiology or medicine,2015,Puse,positive
+BasePaper,2015_58_4,Development of a Work Style Compass and Predicting Research Productivity of Agricultural Scientists,2015,Puse,positive
+BasePaper,2015_15_5,"Knowledge network centrality, formal rank and research performance: evidence for curvilinear and interaction effects",2015,Puse,positive
+BasePaper,2015_52_7,Study on Scientific Production in Strategic Management Period 1980-2014,2015,Puse,positive
+BasePaper,2015_32_4,A comparison between the g?index and the h?index based on concentration,2015,Puse,positive
+BasePaper,2015_14_9,Digital repository of associations between environmental variables: a new resource to facilitate knowledge synthesis,2015,Puse,positive
+BasePaper,2015_1_4,An overview of fuzzy research with bibliometric indicators,2015,Puse,positive
+BasePaper,2015_2_7,A relational altmetric? Network centrality on ResearchGate as an indicator of scientific impact,2015,Puse,positive
+BasePaper,2015_26_2,An increasing citation black hole in ecology and evolution,2015,Puse,positive
+BasePaper,2015_48_3,Editorial: Measuring the Impact of the Child and Adolescent Social Work Journal,2015,Puse,positive
+BasePaper,2015_16_9,Genetic algorithms and Gaussian Bayesian networks to uncover the predictive core set of bibliometric indices,2015,Puse,positive
+BasePaper,2015_12_4,Impact of fellowship training on research productivity in academic ophthalmology,2015,Puse,positive
+BasePaper,2015_56_3,"* University of Kentucky Mental Health Research Center at Eastern State Hospital, Lexington, KY, and Psychiatry and Neurosciences Research Group (CTS- …",2015,Puse,positive
+BasePaper,2015_30_10,Neophilia ranking of scientific journals,2015,Puse,neutral
+BasePaper,2015_54_8,An overview of fuzzy research with bibliometric indicators,2015,Puse,positive
+BasePaper,2015_11_8,Analysis of quantitative and qualitative indicators of SEE countries scientific output,2015,Puse,neutral
+BasePaper,2015_46_3,Examining The Impact Of Supply Chain Integration On Organization Structure And Operational Performance in Oil and Gas Supply Chains: A Contingency Approach,2015,Puse,neutral
+BasePaper,2015_53_1,Ecosystem Services: Mapping of Publication Activities and Trends for Sweden and other Countries,2015,Puse,positive
+BasePaper,2015_57_7,IMPACT ASPIRATIONS OF MIS JOURNALS: AN ONTOLOGICAL ANALYSIS,2015,Puse,positive
+BasePaper,2015_56_1,Enriching the Toxicology Experience through Twitter,2015,Puse,positive
+BasePaper,2015_26_9,"Personal Learning with Social Media: Reputation, Privacy and Identity Perspectives",2015,Puse,positive
+BasePaper,2015_45_4,The Evaluation of Web Contents by User 'Likes' Count,2015,Puse,positive
+BasePaper,2015_61_4,Use Case Oriented Medical Visual Information Retrieval & System Evaluation,2015,Puse,positive
+BasePaper,2015_55_2,Centrality for graphs with numerical attributes,2015,Puse,positive
+BasePaper,2015_59_5,The effect of co-inventors' reputation and network ties on the diffusion of scientific and technical knowledge from academia to industry in South Africa,2015,Puse,positive
+BasePaper,2015_41_4,Computational Analysis of Collective Intelligence in Conversational Text,2015,Puse,neutral
+BasePaper,2015_59_3,Early Detection and Forecasting of Research Trends,2015,Puse,negative
+BasePaper,2015_29_9,Citation sentiment analysis in clinical trial papers,2015,Puse,positive
+BasePaper,2015_10_3,Density equalizing mapping of the global tuberculosis research architecture,2015,Puse,neutral
+BasePaper,2015_25_3,Do first rate scientists work at first rate organizations?,2015,Puse,positive
+BasePaper,2015_41_2,"Higher Education, High-Impact Research and University Rankings: A Case of India and Comparison with China",2015,Puse,positive
+BasePaper,2015_49_5,The production of knowledge in nursing in the BRIC countries: a bibliometric study,2015,Puse,neutral
+BasePaper,2015_49_4,Application of h and h-type indices at meso level: A case of Malaysian engineering research,2015,Puse,positive
+BasePaper,2015_19_5,"How different are higher education institutions in the UK, US and Australia? The significance of government involvement",2015,Puse,positive
+BasePaper,2015_3_5,Fame and the fortune of academic economists: How the market rewards influential research in economics,2015,Puse,positive
+BasePaper,2015_28_8,"Measuring of"" Idea-Based"" Influence of Scientific Papers",2015,Puse,positive
+BasePaper,2015_51_9,AuthorRank: A New Scheme for Identifying Field-Specific Key Researchers,2015,Puse,negative
+BasePaper,2015_21_6,An overview of animal science research 1945–2011 through science mapping analysis,2015,Puse,positive
+BasePaper,2015_33_9,New Trends in Scientometrics,2015,Puse,positive
+BasePaper,2015_58_2,The bibliometric indicators as predictors of the final decision of the peer review,2015,Puse,positive
+BasePaper,2015_11_5,Geographic bias in citation rates of conservation research,2015,Puse,positive
+BasePaper,2015_56_7,"This is only pre-print version of the presented article. Original version is: NYKL, Michal, CAMPR, Michal, and JEŽEK, Karel, 2015. Author ranking based on  …",2015,Puse,positive
+BasePaper,2015_20_3,Estimates of Arab world research productivity associated with desalination: a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_3_10,Mapping the scientific research on life cycle assessment: a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_47_7,Accumulated Citation Count as Fertileness of Scientific Article,2015,Puse,negative
+BasePaper,2015_59_4,Context Based Retrieval of Scientific Publications via Reader Lens,2015,Puse,neutral
+BasePaper,2015_9_2,Vegas: Visual influence graph summarization on citation networks,2015,Puse,positive
+BasePaper,2015_54_2,Recommending Relevant Papers Using In-Text Citation Frequencies and Patterns,2015,Puse,negative
+BasePaper,2015_55_3,Best of both worlds? Simultaneous evaluation of researchers and their works,2015,Puse,positive
+BasePaper,2015_51_1,Bibliometric Analysis of Nasopharyngeal Carcinoma based on SCI database (1999-2012),2015,Puse,positive
+BasePaper,2015_18_5,A 5-year scientometric analysis of research centers affiliated to Tehran University of Medical Sciences,2015,Puse,positive
+BasePaper,2015_9_8,Data-driven journal meta-ranking in business and management,2015,Puse,negative
+BasePaper,2015_60_3,Presidential Address: Truth and error in scientific publishing,2015,Puse,neutral
+BasePaper,2015_19_7,Some variations on the standard theoretical models for the h?index: A comparative analysis,2015,Puse,positive
+BasePaper,2015_7_6,Publication productivity of neurosurgeons in Great Britain and Ireland,2015,Puse,positive
+BasePaper,2015_42_6,Analysis of bibliometric indicators to determine citation bias,2015,Puse,positive
+BasePaper,2015_34_8,On the stability of citation-based journal rankings,2015,Puse,positive
+BasePaper,2015_61_5,Brain Structure and Resting-State Functional Connectivity in University Professors with High Academic Achievement,2015,Puse,positive
+BasePaper,2015_16_4,The evolution of peer review as a basis for scientific publication: directional selection towards a robust discipline?,2015,Puse,positive
+BasePaper,2015_28_7,The research activity of the current faculty of the Greek chemical engineering departments: a bibliometric study in national and international context,2015,Puse,positive
+BasePaper,2015_56_6,Trends and potential cautions in food web research from a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_16_5,Does Quantity Make a Difference?,2015,Puse,positive
+BasePaper,2015_16_7,From research to practice: Which research strategy contributes more to clinical excellence? Comparing high-volume versus high-quality biomedical research,2015,Puse,positive
+BasePaper,2015_48_4,A COMPARISON OF THE OUTPUT PERFORMANCE ON THE STUDY OF MICROBIAL EXTRACELLULAR POLYMERIC SUBSTANCES BETWEEN MAINLAND  …,2015,Puse,positive
+BasePaper,2015_35_4,Kinesiology faculty citations across academic rank,2015,Puse,positive
+BasePaper,2015_18_3,A bibliometric analysis of innovation research,2015,Puse,positive
+BasePaper,2015_35_8,Mapping knowledge produced on problem-based learning between 1945 and 2014: A bibliometric analysis,2015,Puse,negative
+BasePaper,2015_34_2,Development of national citation index as a condition for the formation of a system to evaluate scientific research performance,2015,Puse,positive
+BasePaper,2015_58_1,Breaking the news: Extracting the sparse citation network backbone of online news articles,2015,Puse,positive
+BasePaper,2015_40_1,"Authorship productivity in"" Green Propulsion"" research",2015,Puse,positive
+BasePaper,2015_29_10,Neurosurgery: A legacy of excellence,2015,Puse,negative
+BasePaper,2015_26_4,On the Impact of Academic Factors on Scholar Popularity: A Cross-Area Study,2015,Puse,positive
+BasePaper,2015_17_2,Using reference groups to assess academic productivity in computer science,2015,Puse,positive
+BasePaper,2015_36_1,A new index to use in conjunction with the h?index to account for an author's relative contribution to publications with high impact,2015,Puse,positive
+BasePaper,2015_15_10,Conferences versus journals in computer science,2015,Puse,positive
+BasePaper,2015_31_5,What does Twitter Measure?: Influence of Diverse User Groups in Altmetrics,2015,Puse,positive
+BasePaper,2015_3_1,Bibliometric profile of the global scientific research on methanol poisoning (1902–2012),2015,Puse,neutral
+BasePaper,2015_6_5,Talking to the crowd: What do people react to in online discussions?,2015,Puse,positive
+BasePaper,2015_13_8,Academic benchmarks for otolaryngology leaders,2015,Puse,neutral
+BasePaper,2015_50_10,A new index measure and its use for describing US agriculture: Some initial findings and suggestions for monitoring and reporting,2015,Puse,positive
+BasePaper,2015_32_2,The scientific profiles of terrestrial mammals in Great Britain as measured by publication metrics,2015,Puse,positive
+BasePaper,2015_21_7,Problems and challenges of information resources producers' clustering,2015,Puse,positive
+BasePaper,2015_47_6,A bibliometric evaluation of organic research in India,2015,Puse,neutral
+BasePaper,2015_7_7,A bibliometric study of China's science and technology policies: 1949–2010,2015,Puse,positive
+BasePaper,2015_11_1,The patent portfolio value analysis: A new framework to leverage patent information for strategic technology planning,2015,Puse,positive
+BasePaper,2015_46_6,Online Citation and Reference Management Tools,2015,Puse,positive
+BasePaper,2015_40_3,Features of the Information-analytical System Application for Estimation the Support Areas for Creation of the Results of the Intellectual Activity of the Research  …,2015,Puse,neutral
+BasePaper,2015_33_4,Key Author Analysis in Research Professionals' Relationship Network Using Citation Indices and Centrality,2015,Puse,positive
+BasePaper,2015_13_5,Rescaling the h-index,2015,Puse,positive
+BasePaper,2015_8_9,Comparison of bibliometric measures for assessing relative importance of researchers,2015,Puse,positive
+BasePaper,2015_13_7,Quantitative analysis of the Italian national scientific qualification,2015,Puse,positive
+BasePaper,2015_7_4,Measuring the outcome of biomedical research: a systematic literature review,2015,Puse,positive
+BasePaper,2015_3_9,Expanding and shifting trends in carbon market research: a quantitative bibliometric study,2015,Puse,positive
+BasePaper,2015_16_6,Multiple h-index: a new scientometric indicator,2015,Puse,positive
+BasePaper,2015_57_8,Use Of RFID Technology In Libraries,2015,Puse,positive
+BasePaper,2015_9_9,The 100 top-cited tuberculosis research studies,2015,Puse,positive
+BasePaper,2015_22_7,International visibility of mainland China Translation Studies community: A scientometric study,2015,Puse,positive
+BasePaper,2015_1_1,The Leiden Manifesto for research metrics,2015,Puse,positive
+BasePaper,2015_4_5,Global research productivity of N-acetylcysteine use in paracetamol overdose: a bibliometric analysis (1976–2012),2015,Puse,positive
+BasePaper,2015_39_5,SERBIATRIB '15,2015,Puse,positive
+BasePaper,2015_30_4,It is not what but who you know: a time-sensitive collaboration impact measure of researchers in surrounding communities,2015,Puse,negative
+BasePaper,2015_41_9,"Technological cycles, Meta-Ranking and Open Access Performance",2015,Puse,negative
+BasePaper,2015_15_4,In their own words: using text analysis to identify musicologists' attitudes towards technology,2015,Puse,positive
+BasePaper,2015_7_10,Assessing the profile of top Brazilian computer science researchers,2015,Puse,positive
+BasePaper,2015_23_9,Will This Paper Increase Your h-index?,2015,Puse,positive
+BasePaper,2015_47_8,Predicting best answer using sentiment analysis in community question answering systems,2015,Puse,positive
+BasePaper,2015_8_8,How do collaborative features affect scientific output? Evidences from wind power field,2015,Puse,positive
+BasePaper,2015_13_10,Gender and the h index in psychology,2015,Puse,positive
+BasePaper,2015_49_1,Success Measurement of Scientific Communication: The Contribution of New Media to the Governance of Universities,2015,Puse,positive
+BasePaper,2015_42_4,Selection into Research: Do gender and connections matter?,2015,Puse,neutral
+BasePaper,2015_57_3,Half Empty or Half Filled? Notes on Universal Health Coverage in Northeast India,2015,Puse,positive
+BasePaper,2015_12_2,Learning to rank academic experts in the DBLP dataset,2015,Puse,positive
+BasePaper,2015_19_2,Open Innovation research: trends and influences–a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_20_1,Contribution and Trend to Quality Research-a literature review of SERVQUAL model from 1998 to 2013,2015,Puse,neutral
+BasePaper,2015_50_8,Differences in Received Citations over Time and Across Fields in China.,2015,Puse,positive
+BasePaper,2015_33_10,Knowing the past to Plan for the Future-An In-depth Analysis of the First 10 Editions of the WEBIST Conference.,2015,Puse,positive
+BasePaper,2015_9_4,Research trends in electrochemical technology for water and wastewater treatment,2015,Puse,positive
+BasePaper,2015_33_1,Predatory publishing: Writers beware!,2015,Puse,negative
+BasePaper,2015_52_1,Towards Effective Research-Paper Recommender Systems and User Modeling based on Mind Maps,2015,Puse,positive
+BasePaper,2015_10_2,The research output of European higher education institutions,2015,Puse,neutral
+BasePaper,2015_18_7,Does massive funding support of researchers work?: Evaluating the impact of the South African research chair funding initiative,2015,Puse,positive
+BasePaper,2015_45_5,Citation Analysis and Theory,2015,Puse,positive
+BasePaper,2015_24_1,Voicing an impact: who does the National Institutes of Health support for voice disorder research?,2015,Puse,positive
+BasePaper,2015_30_6,TAPRank: A Time-Aware Author Ranking Method in Heterogeneous Networks,2015,Puse,positive
+BasePaper,2015_32_8,Robustness of personal rankings: the Handelsblatt example,2015,Puse,positive
+BasePaper,2015_15_7,Analysing the conceptual evolution of qualitative marketing research through science mapping analysis,2015,Puse,positive
+BasePaper,2015_40_8,Journal of Informetrics,2015,Puse,positive
+BasePaper,2015_46_1,Coherent measures of the impact of co-authors in peer review journals and in proceedings publications,2015,Puse,positive
+BasePaper,2015_12_5,Global ontology research progress: a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_40_4,A hybrid indicator for journal ranking: An example from the field of Health Care Sciences and Services,2015,Puse,positive
+BasePaper,2015_3_3,25years at Knowledge-Based Systems: A bibliometric analysis,2015,Puse,positive
+BasePaper,2015_24_10,Co-authorship credit allocation methods in the assessment of citation impact of chemistry faculty,2015,Puse,neutral
+BasePaper,2015_51_5,Analysing h-point in lemmatised and non-lemmatised texts,2015,Puse,positive
+BasePaper,2015_54_6,A bibliometric analysis of research papers related to the Mekong River,2015,Puse,positive
+BasePaper,2015_20_9,Measuring the quantity and quality of scholarly productivity in criminology and criminal justice: a test of three integrated models,2015,Puse,neutral
+BasePaper,2015_43_10,Towards Unsupervised Citation Classification,2015,Puse,positive
+BasePaper,2015_33_8,Which species are we researching and why? A case study of the ecology of British breeding birds,2015,Puse,positive
+BasePaper,2015_43_8,A Population Model for the Academic Ecosystem,2015,Puse,positive
+BasePaper,2015_35_1,"Bibliometric indexes, databases and impact factors in cardiology",2015,Puse,positive
+BasePaper,2015_3_6,Spurious alternative impact factors: The scale of the problem from an academic perspective,2015,Puse,positive
+BasePaper,2015_13_2,Screening for self-plagiarism in a subspecialty-versus-general imaging journal using iThenticate,2015,Puse,positive
+BasePaper,2015_49_2,Guidelines for using bibliometrics at the Swedish Research Council,2015,Puse,positive
+BasePaper,2015_25_4,Conceptual Impact-Based Recommender System for CiteSeerx.,2015,Puse,positive
+BasePaper,2015_43_2,An indicator of journal impact that is based on calculating a journal's percentage of highly cited publications,2015,Puse,positive
+BasePaper,2015_50_2,Article level metrics: a look beyond the journal impact factor,2015,Puse,positive
+BasePaper,2015_23_1,Multinational teams and diseconomies of scale in collaborative research,2015,Puse,negative
+BasePaper,2015_53_2,"Concit-Corpus: Context Citation Analysis to learn Function, Polarity and Influence",2015,Puse,positive
+BasePaper,2015_19_8,Mapping of Tuberculosis (TB) research in India during 2004-2013: a bibliometric analysis,2015,Puse,positive
+BasePaper,2015_8_5,"OM3: Ordered maxitive, minitive, and modular aggregation operators–Axiomatic and probabilistic properties in an arity-monotonic setting",2015,Puse,positive
+BasePaper,2015_30_8,The H-Index of 'An Approach to Correlate Tandem Mass Spectral Data of Peptides with Amino Acid Sequences in a Protein Database',2015,Puse,positive
+BasePaper,2015_14_10,Bibliometric analysis on global Catha edulis (khat) research production during the period of 1952–2014,2015,Puse,positive
+BasePaper,2015_57_5,“Indicating a Research Gap” in Computer Science Research Article Introductions by Non-Native English Writers,2015,Puse,positive
+BasePaper,2015_18_8,The research impact of school psychology faculty,2015,Puse,positive
+BasePaper,2015_28_10,Co-authorship and the measurement of individual productivity,2015,Puse,positive
+BasePaper,2015_8_1,Citing a Data Repository: a case study of the Protein Data Bank,2015,Puse,positive
+BasePaper,2015_3_8,Will this paper increase your h-index?: Scientific impact prediction,2015,Puse,positive
+BasePaper,2015_47_9,Does the Centrality Degree of Latin American Countries Predict their Citation Based Performance on Management Research?,2015,Puse,neutral
+BasePaper,2015_9_5,The hw-rank: An h-index variant for ranking web pages,2015,Puse,neutral
+BasePaper,2015_52_6,Scientometric Indicators as a Way to Classify Brands for Customer's Information,2015,Puse,neutral
+BasePaper,2015_8_7,REFORE: A recommender system for researchers based on bibliometrics,2015,Puse,positive
+BasePaper,2015_7_2,Using rank aggregation for expert search in academic digital libraries,2015,Puse,negative
+BasePaper,2015_14_6,Formation of scientific fields as a universal topological transition,2015,Puse,positive
+BasePaper,2015_42_9,RANKING AUTHORS WITH LEARNING-TO-RANK TOPIC MODELING,2015,Puse,negative
+BasePaper,2015_55_8,Further axiomatizations of Egghe's g-index,2015,Puse,negative
+BasePaper,2015_2_4,Methods for the generation of normalized citation impact scores in bibliometrics: Which method best reflects the judgements of experts?,2015,Puse,positive
+BasePaper,2015_10_10,"Myths, Challenges, Risks and Opportunities in Evaluating and Supporting Scientific Research",2015,Puse,positive
+BasePaper,2015_45_3,"Norms, Quality and Dissonance: Theory and Practice of Science According to Scientists",2015,Puse,positive
+BasePaper,2015_17_5,Introducing sub-impact factor (SIF-) sequences and an aggregated SIF-indicator for journal ranking,2015,Puse,positive
+BasePaper,2015_58_5,Legitimate scientific progress or blatant self-promotion? An inquiry into self-citation behavior.,2015,Puse,negative
+BasePaper,2015_1_5,Reputation systems: A survey and taxonomy,2015,Puse,positive
+BasePaper,2015_30_5,Maintaining a Sustainable Scholarly Record,2015,Puse,neutral
+BasePaper,2015_31_1,Scientometric Perspective on Global Research in Cholelithiasis (Gallstones),2015,Puse,positive
+BasePaper,2015_50_6,Comparison of selected mathematical functions for the analysis of growth behavior of items and physical interpretation of Avrami-Weibull function,2015,Puse,positive
+BasePaper,2015_21_3,Understanding the selection processes of public research projects in agriculture: The role of scientific merit,2015,Puse,positive
+BasePaper,2015_6_2,Are quantitative measures of academic productivity correlated with academic rank in plastic surgery? A national study,2015,Puse,positive
+BasePaper,2015_52_8,A Relational Database Model for Science Mapping Analysis,2015,Puse,positive
+BasePaper,2015_15_6,A comparison of plaintiff and defense expert witness qualifications in malpractice litigation in anesthesiology,2015,Puse,positive
+BasePaper,2015_11_6,A decade of research in statistics: a topic model approach,2015,Puse,positive
+BasePaper,2015_18_2,Publish or teach? The role of the scientific environment on academics' multitasking,2015,Puse,neutral
+BasePaper,2015_31_8,Temporal analysis of author ranking using citation-collaboration network,2015,Puse,positive
+BasePaper,2015_1_9,Career studies in search of theory: The rise and rise of concepts,2015,Puse,positive
+BasePaper,2015_29_4,Random walks on the reputation graph,2015,Puse,positive
+BasePaper,2015_46_4,A Scientometric perspective,2015,Puse,positive
+BasePaper,2015_23_4,Evaluating impact in the ROS ecosystem,2015,Puse,positive
+BasePaper,2015_2_9,Exploring trade-offs in the organization of scientific work: Collaboration and scientific reward,2015,Puse,positive
+BasePaper,2015_21_8,Highest Impact Articles in Microsurgery: A Citation Analysis,2015,Puse,positive
+BasePaper,2015_52_9,Furnace Fan Motor Technology Assessment,2015,Puse,positive
+BasePaper,2015_26_3,"Ranking Iranian biomedical research centers according to H-variants (G, M, A, R) in Scopus and Web of Science",2015,Puse,neutral
+BasePaper,2015_1_7,Bibliometric analysis of global environmental assessment research in a 20-year period,2015,Puse,positive
+BasePaper,2015_30_2,Twenty years of Czech science: A bibliometric analysis,2015,Puse,neutral
+BasePaper,2015_31_3,Ascertaining the standard of journal using quality indices,2015,Puse,negative
+BasePaper,2015_42_5,TWINE: Supporting assessment of trustworthiness of web information using linked data,2015,Puse,positive
+BasePaper,2015_49_7,Looking Back to Move Forward: Measuring the Impact of Existing Digital Resources Relevant to Irish Archaeology,2015,Puse,positive
+BasePaper,2015_2_6,Open to influence: What counts as academic influence in scholarly networked Twitter participation,2015,Puse,positive
+BasePaper,2015_35_5,Gender Comparison of Scholarly Production in the Musculoskeletal Tumor Society Using the Hirsch Index,2015,Puse,positive
+BasePaper,2015_4_10,The relationship between the research performance of scientists and their position in co-authorship networks in three fields,2015,Puse,positive
+BasePaper,2015_15_8,“How can We Signal the Value of Our Knowledge?” Knowledge-based Reputation and its Impact on Firm Performance in Science-based Industries,2015,Puse,neutral
+BasePaper,2015_47_2,Relation Between Personal Management and Research Results in Physics,2015,Puse,neutral
+BasePaper,2015_58_6,Indian Journal of Community & Family Medicine,2015,Puse,positive
+BasePaper,2015_6_6,Assessing the true role of coauthors in the h-index measure of an author scientific impact,2015,Puse,positive
+BasePaper,2015_18_6,Ebola and Its Global Research Architecture—Need for an Improvement,2015,Puse,positive
+BasePaper,2015_43_6,A framework for the measurement and prediction of an individual scientist's performance,2015,Puse,negative
+BasePaper,2015_54_1,"August 4, 2015",2015,Puse,neutral
+BasePaper,2015_39_4,GRAFT: A Distributed Recommendation Framework,2015,Puse,positive
+BasePaper,2015_19_9,Ranking cricket teams,2015,Puse,positive
+BasePaper,2015_48_7,Threshold effects of the patent H?index in the relationship between patent citations and market value,2015,Puse,positive
+BasePaper,2015_51_7,The evaluation of the individual impact factor of researchers and research centres using the RC algorithm,2015,Puse,positive
+BasePaper,2015_5_2,"Determining the drivers of academic success in surgery: an analysis of 3,850 faculty",2015,Puse,neutral
+BasePaper,2015_14_4,Completing h,2015,Puse,negative
+BasePaper,2015_14_5,Author ranking based on personalized PageRank,2015,Puse,positive
+BasePaper,2015_60_8,Lessons Learned: The Complexity of Accurate Identification of in-Text Citations.,2015,Puse,positive
+BasePaper,2015_12_6,A simple approach to describe a company's innovative activities and their technological breadth,2015,Puse,neutral
+BasePaper,2015_7_1,Comparative analysis of some individual bibliometric indices when applied to groups of researchers,2015,Puse,positive
+BasePaper,2015_5_8,Understanding bibliometric parameters and analysis,2015,Puse,positive
+BasePaper,2015_14_3,A general conceptual framework for characterizing the ego in a network,2015,Puse,positive
+BasePaper,2015_29_1,"Review: Public service motivation—practical problems, scientific evidence and the role of a research community",2015,Puse,positive
+BasePaper,2015_26_1,Classifying faulty modules with an extension of the H-index,2015,Puse,positive
+BasePaper,2015_36_6,Análises Comparativas entre Indicadores Bibliométricos,2015,Puse,positive
+BasePaper,2015_44_8,Considerations on the Impact Factor as a Tool in Scientific Assessment,2015,Puse,positive
+BasePaper,2015_14_2,Characterizing highly cited papers in Social Work through H-Classics,2015,Puse,neutral
+BasePaper,2015_23_7,Cooperation and coauthorship in scientific publishing,2015,Puse,neutral
+BasePaper,2015_12_8,From big to little data for natural disaster recovery: how online and on-the-ground activities are connected,2015,Puse,positive
+BasePaper,2015_50_5,Applying behavioural insights to challenges in health policy,2015,Puse,positive
+BasePaper,2015_7_5,The pagerank-index: Going beyond citation counts in quantifying scientific impact of researchers,2015,Puse,positive
+BasePaper,2015_10_8,Five-year institutional bibliometric profiles for 103 US neurosurgical residency programs,2015,Puse,positive
+BasePaper,2015_44_2,A correction of h-index to account for the relative importance of authors in manuscripts,2015,Puse,positive
+BasePaper,2015_42_8,Assessment of the quality of a journal: Scientific approach,2015,Puse,negative
+BasePaper,2015_16_10,Congenital toxoplasmosis: an in-depth density-equalizing mapping analysis to explore its global research architecture,2015,Puse,positive
+BasePaper,2015_2_3,Multidimensional assessment of scholarly research impact,2015,Puse,positive
+BasePaper,2015_13_1,The academic productivity and impact of the University of Toronto Neurosurgery Program as assessed by manuscripts published and their number of citations,2015,Puse,positive
+BasePaper,2015_7_3,Scholarly social media profiles and libraries: A review,2015,Puse,negative
+BasePaper,2015_59_8,Online supplemental information: a sizeable black hole for citations,2015,Puse,positive
+BasePaper,2015_2_8,Field-normalized citation impact indicators and the choice of an appropriate counting method,2015,Puse,neutral
+BasePaper,2015_8_3,Underpinning strategic behaviours and posture of principal investigators in transition/uncertain environments,2015,Puse,positive
+BasePaper,2015_24_2,Ranking search results in library information systems—considering ranking approaches adapted from web search engines,2015,Puse,neutral
+BasePaper,2015_61_8,Quick Evaluation of Research Impacts at Conferences Using SNS,2015,Puse,positive
+BasePaper,2015_12_9,Impact analysis of domestic and international research collaborations: a Malaysian case study,2015,Puse,positive
+BasePaper,2015_50_9,ETD Visibility: A Study on the Exposure of Indian ETDs to the Google Scholar Crawler,2015,Puse,neutral
+BasePaper,2015_28_8_co1,From frequency to meaning: Vector space models of semantics,2015,neutral,neutral
+BasePaper,2015_13_3_co2,Comparison of the Hirsch-index with standard bibliometric indicators and with peer judgment for 147 chemistry research groups,2015,neutral,neutral
+BasePaper,2015_30_7_co1,NIH peer review of grant applications for clinical research,2015,neutral,neutral
+BasePaper,2015_6_6_co5,"Ausloos, M. (2015). Assessing the true role of coauthors in the h-index measure of an",2015,neutral,neutral
+BasePaper,2015_6_6_co2,prestige is factored into journal ratings,2015,neutral,neutral
+BasePaper,2015_60_10_co1,The history and meaning of the journal impact factor,2015,neutral,neutral
+BasePaper,2015_58_5_co1,Large-scale structure of time evolving citation networks,2015,neutral,neutral
+BasePaper,2015_27_1_co1,The history and meaning of the journal impact factor,2015,neutral,neutral
+BasePaper,2015_59_5_co1,Ranking and identifying influential scientists versus mass producers by the Perfectionism Index,2015,neutral,neutral
+2015_10_1,2015_66_2,,2015,,
+2015_10_10,2015_2_1,,2015,,
+2015_10_10,2015_66_2,,2015,,
+2015_10_2,2015_66_2,,2015,,
+2015_10_3,2015_66_2,,2015,,
+2015_10_4,2015_66_2,,2015,,
+2015_10_5,2015_66_2,,2015,,
+2015_10_6,2015_66_2,,2015,,
+2015_10_7,2015_66_2,,2015,,
+2015_10_8,2015_66_2,,2015,,
+2015_11_1,2015_66_2,,2015,,
+2015_11_10,2015_66_2,,2015,,
+2015_11_4,2015_66_2,,2015,,
+2015_11_5,2015_66_2,,2015,,
+2015_11_6,2015_66_2,,2015,,
+2015_11_7,2015_66_2,,2015,,
+2015_11_8,2015_66_2,,2015,,
+2015_11_9,2015_66_2,,2015,,
+2015_12_1,2015_66_2,,2015,,
+2015_12_2,2015_66_2,,2015,,
+2015_12_3,2015_66_2,,2015,,
+2015_12_4,2015_66_2,,2015,,
+2015_12_5,2015_66_2,,2015,,
+2015_12_6,2015_66_2,,2015,,
+2015_12_7,2015_66_2,,2015,,
+2015_12_8,2015_66_2,,2015,,
+2015_12_9,2015_66_2,,2015,,
+2015_13_1,2015_66_2,,2015,,
+2015_13_10,2015_66_2,,2015,,
+2015_13_2,2015_66_2,,2015,,
+2015_13_3,2015_66_2,,2015,,
+2015_13_3_co2,2015_66_2,,2015,,
+2015_13_5,2015_66_2,,2015,,
+2015_13_6,2015_66_2,,2015,,
+2015_13_7,2015_66_2,,2015,,
+2015_13_8,2015_66_2,,2015,,
+2015_13_9,2015_66_2,,2015,,
+2015_14_1,2015_66_2,,2015,,
+2015_14_10,2015_66_2,,2015,,
+2015_14_2,2015_66_2,,2015,,
+2015_14_3,2015_66_2,,2015,,
+2015_14_4,2015_66_2,,2015,,
+2015_14_5,2015_66_2,,2015,,
+2015_14_6,2015_66_2,,2015,,
+2015_14_7,2015_66_2,,2015,,
+2015_14_8,2015_66_2,,2015,,
+2015_14_9,2015_66_2,,2015,,
+2015_15_1,2015_66_2,,2015,,
+2015_15_10,2015_66_2,,2015,,
+2015_15_4,2015_66_2,,2015,,
+2015_15_5,2015_66_2,,2015,,
+2015_15_6,2015_66_2,,2015,,
+2015_15_7,2015_66_2,,2015,,
+2015_15_8,2015_66_2,,2015,,
+2015_15_9,2015_66_2,,2015,,
+2015_16_1,2015_66_2,,2015,,
+2015_16_10,2015_66_2,,2015,,
+2015_16_2,2015_66_2,,2015,,
+2015_16_3,2015_66_2,,2015,,
+2015_16_4,2015_66_2,,2015,,
+2015_16_5,2015_66_2,,2015,,
+2015_16_6,2015_66_2,,2015,,
+2015_16_7,2015_66_2,,2015,,
+2015_16_8,2015_66_2,,2015,,
+2015_16_9,2015_66_2,,2015,,
+2015_17_1,2015_66_2,,2015,,
+2015_17_2,2015_66_2,,2015,,
+2015_17_3,2015_66_2,,2015,,
+2015_17_5,2015_66_2,,2015,,
+2015_17_6,2015_66_2,,2015,,
+2015_17_8,2015_66_2,,2015,,
+2015_17_9,2015_66_2,,2015,,
+2015_18_10,2015_66_2,,2015,,
+2015_18_2,2015_66_2,,2015,,
+2015_18_3,2015_66_2,,2015,,
+2015_18_4,2015_66_2,,2015,,
+2015_18_5,2015_66_2,,2015,,
+2015_18_6,2015_66_2,,2015,,
+2015_18_7,2015_66_2,,2015,,
+2015_18_8,2015_66_2,,2015,,
+2015_18_9,2015_47_5,,2015,,
+2015_18_9,2015_66_2,,2015,,
+2015_19_1,2015_66_2,,2015,,
+2015_19_2,2015_66_2,,2015,,
+2015_19_3,2015_66_2,,2015,,
+2015_19_5,2015_66_2,,2015,,
+2015_19_6,2015_66_2,,2015,,
+2015_19_7,2015_66_2,,2015,,
+2015_19_8,2015_66_2,,2015,,
+2015_19_9,2015_66_2,,2015,,
+2015_1_1,2015_66_2,,2015,,
+2015_1_2,2015_66_2,,2015,,
+2015_1_3,2015_66_2,,2015,,
+2015_1_4,2015_66_2,,2015,,
+2015_1_5,2015_66_2,,2015,,
+2015_1_6,2015_66_2,,2015,,
+2015_1_7,2015_66_2,,2015,,
+2015_1_8,2015_66_2,,2015,,
+2015_1_9,2015_66_2,,2015,,
+2015_20_1,2015_66_2,,2015,,
+2015_20_2,2015_66_2,,2015,,
+2015_20_3,2015_66_2,,2015,,
+2015_20_4,2015_66_2,,2015,,
+2015_20_6,2015_66_2,,2015,,
+2015_20_7,2015_66_2,,2015,,
+2015_20_8,2015_66_2,,2015,,
+2015_20_9,2015_66_2,,2015,,
+2015_21_1,2015_66_2,,2015,,
+2015_21_10,2015_66_2,,2015,,
+2015_21_3,2015_66_2,,2015,,
+2015_21_4,2015_66_2,,2015,,
+2015_21_5,2015_66_2,,2015,,
+2015_21_6,2015_66_2,,2015,,
+2015_21_7,2015_66_2,,2015,,
+2015_21_8,2015_66_2,,2015,,
+2015_22_7,2015_66_2,,2015,,
+2015_22_8,2015_66_2,,2015,,
+2015_23_1,2015_66_2,,2015,,
+2015_23_4,2015_66_2,,2015,,
+2015_23_6,2015_66_2,,2015,,
+2015_23_7,2015_66_2,,2015,,
+2015_23_8,2015_66_2,,2015,,
+2015_23_9,2015_66_2,,2015,,
+2015_24_1,2015_66_2,,2015,,
+2015_24_10,2015_66_2,,2015,,
+2015_24_2,2015_66_2,,2015,,
+2015_24_3,2015_66_2,,2015,,
+2015_24_5,2015_66_2,,2015,,
+2015_24_6,2015_66_2,,2015,,
+2015_24_7,2015_66_2,,2015,,
+2015_24_8,2015_66_2,,2015,,
+2015_25_1,2015_66_2,,2015,,
+2015_25_10,2015_66_2,,2015,,
+2015_25_2,2015_66_2,,2015,,
+2015_25_3,2015_66_2,,2015,,
+2015_25_4,2015_66_2,,2015,,
+2015_25_5,2015_66_2,,2015,,
+2015_25_6,2015_66_2,,2015,,
+2015_25_7,2015_66_2,,2015,,
+2015_25_9,2015_66_2,,2015,,
+2015_26_1,2015_66_2,,2015,,
+2015_26_2,2015_66_2,,2015,,
+2015_26_3,2015_66_2,,2015,,
+2015_26_4,2015_47_5,,2015,,
+2015_26_4,2015_66_2,,2015,,
+2015_26_5,2015_66_2,,2015,,
+2015_26_6,2015_66_2,,2015,,
+2015_26_7,2015_66_2,,2015,,
+2015_26_9,2015_66_2,,2015,,
+2015_27_1,2015_66_2,,2015,,
+2015_27_1_co1,2015_66_2,,2015,,
+2015_27_1_co1,2015_60_10_co1,,2015,,
+2015_28_10,2015_66_2,,2015,,
+2015_28_7,2015_66_2,,2015,,
+2015_28_8,2015_66_2,,2015,,
+2015_28_8_co1,2015_66_2,,2015,,
+2015_28_9,2015_66_2,,2015,,
+2015_29_1,2015_66_2,,2015,,
+2015_29_10,2015_66_2,,2015,,
+2015_29_3,2015_66_2,,2015,,
+2015_29_3,2015_14_4,,2015,,
+2015_29_4,2015_66_2,,2015,,
+2015_29_5,2015_66_2,,2015,,
+2015_29_6,2015_66_2,,2015,,
+2015_29_7,2015_66_2,,2015,,
+2015_29_8,2015_66_2,,2015,,
+2015_29_9,2015_66_2,,2015,,
+2015_2_1,2015_66_2,,2015,,
+2015_2_2,2015_66_2,,2015,,
+2015_2_3,2015_66_2,,2015,,
+2015_2_4,2015_66_2,,2015,,
+2015_2_5,2015_66_2,,2015,,
+2015_2_6,2015_66_2,,2015,,
+2015_2_7,2015_66_2,,2015,,
+2015_2_8,2015_66_2,,2015,,
+2015_2_9,2015_66_2,,2015,,
+2015_30_1,2015_66_2,,2015,,
+2015_30_10,2015_66_2,,2015,,
+2015_30_2,2015_66_2,,2015,,
+2015_30_3,2015_66_2,,2015,,
+2015_30_4,2015_66_2,,2015,,
+2015_30_5,2015_66_2,,2015,,
+2015_30_6,2015_66_2,,2015,,
+2015_30_7,2015_66_2,,2015,,
+2015_30_7_co1,2015_66_2,,2015,,
+2015_30_8,2015_66_2,,2015,,
+2015_31_1,2015_66_2,,2015,,
+2015_31_2,2015_66_2,,2015,,
+2015_31_3,2015_66_2,,2015,,
+2015_31_4,2015_66_2,,2015,,
+2015_31_5,2015_66_2,,2015,,
+2015_31_6,2015_66_2,,2015,,
+2015_31_7,2015_66_2,,2015,,
+2015_31_8,2015_66_2,,2015,,
+2015_31_9,2015_66_2,,2015,,
+2015_32_1,2015_66_2,,2015,,
+2015_32_10,2015_66_2,,2015,,
+2015_32_2,2015_66_2,,2015,,
+2015_32_3,2015_66_2,,2015,,
+2015_32_4,2015_66_2,,2015,,
+2015_32_5,2015_66_2,,2015,,
+2015_32_6,2015_66_2,,2015,,
+2015_32_7,2015_66_2,,2015,,
+2015_32_8,2015_66_2,,2015,,
+2015_32_9,2015_66_2,,2015,,
+2015_33_1,2015_66_2,,2015,,
+2015_33_10,2015_66_2,,2015,,
+2015_33_2,2015_66_2,,2015,,
+2015_33_3,2015_66_2,,2015,,
+2015_33_4,2015_66_2,,2015,,
+2015_33_5,2015_66_2,,2015,,
+2015_33_6,2015_66_2,,2015,,
+2015_33_7,2015_66_2,,2015,,
+2015_33_8,2015_66_2,,2015,,
+2015_33_9,2015_66_2,,2015,,
+2015_34_10,2015_66_2,,2015,,
+2015_34_2,2015_66_2,,2015,,
+2015_34_3,2015_66_2,,2015,,
+2015_34_4,2015_66_2,,2015,,
+2015_34_6,2015_66_2,,2015,,
+2015_34_7,2015_66_2,,2015,,
+2015_34_8,2015_66_2,,2015,,
+2015_34_9,2015_66_2,,2015,,
+2015_35_1,2015_66_2,,2015,,
+2015_35_2,2015_66_2,,2015,,
+2015_35_3,2015_66_2,,2015,,
+2015_35_4,2015_66_2,,2015,,
+2015_35_5,2015_66_2,,2015,,
+2015_35_6,2015_66_2,,2015,,
+2015_35_7,2015_66_2,,2015,,
+2015_35_8,2015_66_2,,2015,,
+2015_35_9,2015_66_2,,2015,,
+2015_36_1,2015_66_2,,2015,,
+2015_36_6,2015_66_2,,2015,,
+2015_39_4,2015_66_2,,2015,,
+2015_39_5,2015_66_2,,2015,,
+2015_39_6,2015_66_2,,2015,,
+2015_39_7,2015_66_2,,2015,,
+2015_39_8,2015_66_2,,2015,,
+2015_39_9,2015_66_2,,2015,,
+2015_3_1,2015_66_2,,2015,,
+2015_3_10,2015_66_2,,2015,,
+2015_3_2,2015_66_2,,2015,,
+2015_3_3,2015_66_2,,2015,,
+2015_3_4,2015_66_2,,2015,,
+2015_3_5,2015_66_2,,2015,,
+2015_3_6,2015_66_2,,2015,,
+2015_3_7,2015_66_2,,2015,,
+2015_3_8,2015_66_2,,2015,,
+2015_3_9,2015_66_2,,2015,,
+2015_40_1,2015_66_2,,2015,,
+2015_40_10,2015_66_2,,2015,,
+2015_40_3,2015_66_2,,2015,,
+2015_40_4,2015_66_2,,2015,,
+2015_40_6,2015_66_2,,2015,,
+2015_40_7,2015_66_2,,2015,,
+2015_40_8,2015_66_2,,2015,,
+2015_40_9,2015_66_2,,2015,,
+2015_41_10,2015_66_2,,2015,,
+2015_41_2,2015_66_2,,2015,,
+2015_41_3,2015_66_2,,2015,,
+2015_41_4,2015_66_2,,2015,,
+2015_41_5,2015_66_2,,2015,,
+2015_41_6,2015_66_2,,2015,,
+2015_41_7,2015_66_2,,2015,,
+2015_41_8,2015_66_2,,2015,,
+2015_41_9,2015_66_2,,2015,,
+2015_42_1,2015_66_2,,2015,,
+2015_42_2,2015_66_2,,2015,,
+2015_42_3,2015_66_2,,2015,,
+2015_42_4,2015_66_2,,2015,,
+2015_42_5,2015_66_2,,2015,,
+2015_42_6,2015_66_2,,2015,,
+2015_42_7,2015_66_2,,2015,,
+2015_42_8,2015_66_2,,2015,,
+2015_42_9,2015_66_2,,2015,,
+2015_43_10,2015_66_2,,2015,,
+2015_43_2,2015_66_2,,2015,,
+2015_43_3,2015_66_2,,2015,,
+2015_43_4,2015_66_2,,2015,,
+2015_43_5,2015_66_2,,2015,,
+2015_43_6,2015_66_2,,2015,,
+2015_43_7,2015_66_2,,2015,,
+2015_43_8,2015_66_2,,2015,,
+2015_43_9,2015_66_2,,2015,,
+2015_44_10,2015_66_2,,2015,,
+2015_44_2,2015_66_2,,2015,,
+2015_44_3,2015_66_2,,2015,,
+2015_44_5,2015_66_2,,2015,,
+2015_44_8,2015_66_2,,2015,,
+2015_45_1,2015_66_2,,2015,,
+2015_45_10,2015_66_2,,2015,,
+2015_45_2,2015_66_2,,2015,,
+2015_45_3,2015_66_2,,2015,,
+2015_45_4,2015_66_2,,2015,,
+2015_45_5,2015_66_2,,2015,,
+2015_45_6,2015_66_2,,2015,,
+2015_45_7,2015_66_2,,2015,,
+2015_45_8,2015_66_2,,2015,,
+2015_46_1,2015_66_2,,2015,,
+2015_46_2,2015_66_2,,2015,,
+2015_46_3,2015_66_2,,2015,,
+2015_46_4,2015_66_2,,2015,,
+2015_46_5,2015_66_2,,2015,,
+2015_46_6,2015_66_2,,2015,,
+2015_46_7,2015_66_2,,2015,,
+2015_46_8,2015_66_2,,2015,,
+2015_47_2,2015_66_2,,2015,,
+2015_47_3,2015_66_2,,2015,,
+2015_47_5,2015_66_2,,2015,,
+2015_47_6,2015_66_2,,2015,,
+2015_47_7,2015_66_2,,2015,,
+2015_47_8,2015_66_2,,2015,,
+2015_47_9,2015_66_2,,2015,,
+2015_48_1,2015_66_2,,2015,,
+2015_48_10,2015_66_2,,2015,,
+2015_48_2,2015_66_2,,2015,,
+2015_48_3,2015_66_2,,2015,,
+2015_48_4,2015_66_2,,2015,,
+2015_48_5,2015_66_2,,2015,,
+2015_48_6,2015_56_4,,2015,,
+2015_48_6,2015_66_2,,2015,,
+2015_48_7,2015_66_2,,2015,,
+2015_48_9,2015_66_2,,2015,,
+2015_49_1,2015_66_2,,2015,,
+2015_49_2,2015_66_2,,2015,,
+2015_49_4,2015_66_2,,2015,,
+2015_49_5,2015_66_2,,2015,,
+2015_49_6,2015_66_2,,2015,,
+2015_49_7,2015_66_2,,2015,,
+2015_49_8,2015_66_2,,2015,,
+2015_49_9,2015_66_2,,2015,,
+2015_4_1,2015_66_2,,2015,,
+2015_4_10,2015_66_2,,2015,,
+2015_4_3,2015_66_2,,2015,,
+2015_4_4,2015_66_2,,2015,,
+2015_4_5,2015_66_2,,2015,,
+2015_4_6,2015_66_2,,2015,,
+2015_4_7,2015_66_2,,2015,,
+2015_4_8,2015_66_2,,2015,,
+2015_4_9,2015_66_2,,2015,,
+2015_50_1,2015_66_2,,2015,,
+2015_50_10,2015_66_2,,2015,,
+2015_50_2,2015_66_2,,2015,,
+2015_50_3,2015_66_2,,2015,,
+2015_50_4,2015_66_2,,2015,,
+2015_50_5,2015_66_2,,2015,,
+2015_50_6,2015_66_2,,2015,,
+2015_50_7,2015_66_2,,2015,,
+2015_50_8,2015_66_2,,2015,,
+2015_50_9,2015_66_2,,2015,,
+2015_51_1,2015_66_2,,2015,,
+2015_51_10,2015_66_2,,2015,,
+2015_51_2,2015_66_2,,2015,,
+2015_51_4,2015_66_2,,2015,,
+2015_51_5,2015_66_2,,2015,,
+2015_51_6,2015_66_2,,2015,,
+2015_51_7,2015_66_2,,2015,,
+2015_51_8,2015_66_2,,2015,,
+2015_51_9,2015_66_2,,2015,,
+2015_52_1,2015_66_2,,2015,,
+2015_52_2,2015_66_2,,2015,,
+2015_52_3,2015_66_2,,2015,,
+2015_52_5,2015_66_2,,2015,,
+2015_52_6,2015_66_2,,2015,,
+2015_52_7,2015_66_2,,2015,,
+2015_52_8,2015_66_2,,2015,,
+2015_52_9,2015_66_2,,2015,,
+2015_53_1,2015_66_2,,2015,,
+2015_53_10,2015_66_2,,2015,,
+2015_53_2,2015_66_2,,2015,,
+2015_53_3,2015_66_2,,2015,,
+2015_53_4,2015_66_2,,2015,,
+2015_53_5,2015_66_2,,2015,,
+2015_53_6,2015_66_2,,2015,,
+2015_53_7,2015_66_2,,2015,,
+2015_53_9,2015_66_2,,2015,,
+2015_54_1,2015_66_2,,2015,,
+2015_54_10,2015_66_2,,2015,,
+2015_54_2,2015_66_2,,2015,,
+2015_54_3,2015_66_2,,2015,,
+2015_54_4,2015_66_2,,2015,,
+2015_54_5,2015_66_2,,2015,,
+2015_54_6,2015_66_2,,2015,,
+2015_54_7,2015_66_2,,2015,,
+2015_54_8,2015_66_2,,2015,,
+2015_54_9,2015_66_2,,2015,,
+2015_55_1,2015_66_2,,2015,,
+2015_55_10,2015_66_2,,2015,,
+2015_55_2,2015_66_2,,2015,,
+2015_55_3,2015_66_2,,2015,,
+2015_55_4,2015_66_2,,2015,,
+2015_55_6,2015_66_2,,2015,,
+2015_55_7,2015_66_2,,2015,,
+2015_55_8,2015_66_2,,2015,,
+2015_55_9,2015_66_2,,2015,,
+2015_56_1,2015_66_2,,2015,,
+2015_56_3,2015_66_2,,2015,,
+2015_56_4,2015_66_2,,2015,,
+2015_56_5,2015_66_2,,2015,,
+2015_56_6,2015_66_2,,2015,,
+2015_56_7,2015_66_2,,2015,,
+2015_56_8,2015_66_2,,2015,,
+2015_57_10,2015_66_2,,2015,,
+2015_57_3,2015_66_2,,2015,,
+2015_57_5,2015_66_2,,2015,,
+2015_57_6,2015_66_2,,2015,,
+2015_57_7,2015_66_2,,2015,,
+2015_57_8,2015_66_2,,2015,,
+2015_57_9,2015_66_2,,2015,,
+2015_58_1,2015_66_2,,2015,,
+2015_58_2,2015_66_2,,2015,,
+2015_58_3,2015_66_2,,2015,,
+2015_58_4,2015_66_2,,2015,,
+2015_58_5,2015_66_2,,2015,,
+2015_58_5_co1,2015_66_2,,2015,,
+2015_58_6,2015_66_2,,2015,,
+2015_58_7,2015_66_2,,2015,,
+2015_58_8,2015_66_2,,2015,,
+2015_59_1,2015_66_2,,2015,,
+2015_59_10,2015_66_2,,2015,,
+2015_59_2,2015_66_2,,2015,,
+2015_59_3,2015_66_2,,2015,,
+2015_59_4,2015_66_2,,2015,,
+2015_59_5,2015_66_2,,2015,,
+2015_59_5_co1,2015_66_2,,2015,,
+2015_59_5_co1,2015_40_8,,2015,,
+2015_59_8,2015_66_2,,2015,,
+2015_59_9,2015_66_2,,2015,,
+2015_5_10,2015_66_2,,2015,,
+2015_5_2,2015_66_2,,2015,,
+2015_5_3,2015_66_2,,2015,,
+2015_5_4,2015_66_2,,2015,,
+2015_5_5,2015_66_2,,2015,,
+2015_5_6,2015_66_2,,2015,,
+2015_5_7,2015_66_2,,2015,,
+2015_5_8,2015_66_2,,2015,,
+2015_60_1,2015_66_2,,2015,,
+2015_60_10,2015_66_2,,2015,,
+2015_60_10_co1,2015_66_2,,2015,,
+2015_60_10_co1,2015_27_1_co1,,2015,,
+2015_60_2,2015_66_2,,2015,,
+2015_60_3,2015_66_2,,2015,,
+2015_60_4,2015_66_2,,2015,,
+2015_60_5,2015_66_2,,2015,,
+2015_60_6,2015_66_2,,2015,,
+2015_60_7,2015_66_2,,2015,,
+2015_60_8,2015_66_2,,2015,,
+2015_61_1,2015_66_2,,2015,,
+2015_61_2,2015_66_2,,2015,,
+2015_61_3,2015_66_2,,2015,,
+2015_61_4,2015_66_2,,2015,,
+2015_61_5,2015_66_2,,2015,,
+2015_61_7,2015_66_2,,2015,,
+2015_61_8,2015_66_2,,2015,,
+2015_6_1,2015_66_2,,2015,,
+2015_6_10,2015_66_2,,2015,,
+2015_6_2,2015_66_2,,2015,,
+2015_6_3,2015_66_2,,2015,,
+2015_6_4,2015_66_2,,2015,,
+2015_6_5,2015_66_2,,2015,,
+2015_6_6,2015_66_2,,2015,,
+2015_6_6_co2,2015_66_2,,2015,,
+2015_6_6_co2,2015_40_8,,2015,,
+2015_6_6_co5,2015_66_2,,2015,,
+2015_6_9,2015_66_2,,2015,,
+2015_7_1,2015_66_2,,2015,,
+2015_7_10,2015_66_2,,2015,,
+2015_7_2,2015_66_2,,2015,,
+2015_7_3,2015_66_2,,2015,,
+2015_7_4,2015_66_2,,2015,,
+2015_7_5,2015_66_2,,2015,,
+2015_7_6,2015_66_2,,2015,,
+2015_7_7,2015_66_2,,2015,,
+2015_7_8,2015_66_2,,2015,,
+2015_7_9,2015_66_2,,2015,,
+2015_8_1,2015_66_2,,2015,,
+2015_8_10,2015_66_2,,2015,,
+2015_8_3,2015_66_2,,2015,,
+2015_8_4,2015_66_2,,2015,,
+2015_8_5,2015_66_2,,2015,,
+2015_8_6,2015_66_2,,2015,,
+2015_8_7,2015_66_2,,2015,,
+2015_8_8,2015_66_2,,2015,,
+2015_8_9,2015_66_2,,2015,,
+2015_9_1,2015_66_2,,2015,,
+2015_9_10,2015_66_2,,2015,,
+2015_9_2,2015_66_2,,2015,,
+2015_9_3,2015_66_2,,2015,,
+2015_9_4,2015_66_2,,2015,,
+2015_9_5,2015_66_2,,2015,,
+2015_9_6,2015_66_2,,2015,,
+2015_9_8,2015_66_2,,2015,,
+2015_9_9,2015_66_2,,2015,,

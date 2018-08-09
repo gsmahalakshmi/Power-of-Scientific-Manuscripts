@@ -1,0 +1,522 @@
+Source,Target,Title,Year,Rhetorics,
+BasePaper,BasePaper,An index to quantify an individual's scientific research output,2012,--,--
+BasePaper,2016_55_1,Evaluating research and patenting performance using elites: A preliminary classification scheme,2016,neutral,neutral
+BasePaper,2016_11_6,A dynamic network model to explain the development of excellent human performance,2016,Weak,negative
+BasePaper,2016_56_2,A Visual Citation Search Engine,2016,Puse,positive
+BasePaper,2016_60_9,"Scholarly Publishing's Evolving Landscape: Impact Metrics, Electronic-Only Journals, and Open Access in Journalism and Communication Research",2016,Puse,neutral
+BasePaper,2016_13_5,Measuring the impact of research: lessons from the UK's Research Excellence Framework 2014,2016,Puse,negative
+BasePaper,2016_51_4,"Studies in the Dynamics of Science: Exploring emergence, classification, and interdisciplinarity",2016,Puse,positive
+BasePaper,2016_6_1,Highly cited articles in the Information Science and Library Science category in Social Science Citation Index: A bibliometric analysis,2016,Puse,positive
+BasePaper,2016_72_8,Research performance of tenured professors in Portuguese civil engineering departments,2016,Puse,positive
+BasePaper,2016_19_2,Citation count prediction as a link prediction problem,2016,Puse,negative
+BasePaper,2016_8_4,Change of perspective: bibliometrics from the point of view of cited references—a literature overview on approaches to the evaluation of cited references in  …,2016,Puse,positive
+BasePaper,2016_54_4,The assessment of productivity in biomedical research,2016,Puse,positive
+BasePaper,2016_20_7,Citation block determination using textual coherence,2016,Puse,neutral
+BasePaper,2016_7_5,A bibliometric analysis of literature on malaria vector resistance:(1996–2015),2016,Puse,positive
+BasePaper,2016_5_5,Assessing worldwide research activity on probiotics in pediatrics using Scopus database: 1994–2014,2016,Puse,positive
+BasePaper,2016_8_1,A bibliometric and network analysis of the field of computational linguistics,2016,Puse,neutral
+BasePaper,2016_60_3,A simple impact index for scientific innovation and recognition,2016,Puse,positive
+BasePaper,2016_60_4,Peer-review process in journals dealing with chemistry and related subjects published in Serbia,2016,Puse,positive
+BasePaper,2016_2_6,CiteRivers: Visual analytics of citation patterns,2016,Puse,positive
+BasePaper,2016_44_10,Research Output and Sustainable Development: Webometric Analysis of Scopus Indexed Publications 2008-2014,2016,Puse,positive
+BasePaper,2016_36_1,A bibliometric analysis for the research on river water quality assessment and simulation during 2000–2014,2016,Puse,neutral
+BasePaper,2016_54_3,Outsourcing library functions: a bibliometric study in SSCI,2016,Puse,positive
+BasePaper,2016_9_2,Publication productivity and experience: factors associated with academic rank among orthopaedic surgery faculty in the United States,2016,Puse,positive
+BasePaper,2016_11_9,Has contemporary academia outgrown the Carl Sagan effect?,2016,Puse,positive
+BasePaper,2016_19_10,Are your spectroscopic data being used?,2016,Puse,positive
+BasePaper,2016_7_9,"Investigating the interplay between fundamentals of national research systems: performance, investments and international collaborations",2016,Puse,neutral
+BasePaper,2016_58_9,Comparison of Impact Factors of Journals and H Index of Faculty Members of Different Medical Specialties in Loghman Hakim General Hospital,2016,Puse,positive
+BasePaper,2016_3_3,Worldwide research productivity on tramadol: a bibliometric analysis,2016,Puse,positive
+BasePaper,2016_27_8,Citation analysis of scholarly publications of Universities of Karnataka: a study based on Web of Science,2016,Puse,positive
+BasePaper,2016_44_8,The Evaluation of Individual Authors by Journal-Specific Metrics Would Not Yield Realistic Results.,2016,Puse,neutral
+BasePaper,2016_45_1,The lived experiences and critical success factors of scientific leaders transitioned from a technical position at an American research laboratory,2016,Puse,positive
+BasePaper,2016_47_5,Research metrics: What about weighted citations?,2016,Puse,negative
+BasePaper,2016_43_6,"Educational expertise, advocacy, and media influence",2016,Puse,positive
+BasePaper,2016_57_1,Bibliometrics and information retrieval: Creating knowledge through research synergies,2016,Puse,positive
+BasePaper,2016_2_1,Application of the h-index in academic plastic surgery,2016,Puse,positive
+BasePaper,2016_55_3,$ C^ 3$-index: A PageRank based multi-faceted metric for authors' performance measurement,2016,Puse,positive
+BasePaper,2016_17_2,Two citation-based indicators to measure latent referential value of papers,2016,Puse,negative
+BasePaper,2016_47_1,A bibliometric analysis of research productivity of emergency medicine researchers in South Korea,2016,Puse,positive
+BasePaper,2016_17_1,IJBM,2016,Puse,positive
+BasePaper,2016_48_10,A theoretical model of scientific impact based on citations,2016,Puse,neutral
+BasePaper,2016_18_3,A shifting tide: Recommendations for incorporating science communication into graduate training,2016,Puse,positive
+BasePaper,2016_31_10,Is this conference a top-tier? ConfAssist: An assistive conflict resolution framework for conference categorization,2016,Puse,negative
+BasePaper,2016_40_2,The Analysis of Processes of New Knowledge Production in Key World Regions and Russia,2016,Puse,neutral
+BasePaper,2016_9_10,A citation analysis of business ethics research: a global perspective,2016,Puse,neutral
+BasePaper,2016_6_5,Comparison of the h?Index Scores Among Pathogens Identified as Emerging Hazards in North America,2016,Puse,positive
+BasePaper,2016_40_6,"Cloud-Based Big Data Management and Analytics for Scholarly Resources: Current Trends, Challenges and Scope for Future Research",2016,Puse,positive
+BasePaper,2016_38_5,Social Network Service for Scientists Difficulties Facing E-Publishing over Cloud Computing,2016,Puse,neutral
+BasePaper,2016_10_5,Do Plastic Surgery Programs with Integrated Residencies or Subspecialty Fellowships Have Increased Academic Productivity?,2016,Puse,positive
+BasePaper,2016_12_6,Extracting information from multiplex networks,2016,Puse,positive
+BasePaper,2016_57_5,A New Method for Evaluating Author's Scientific Impact by using an Eigenfactor Derived Scoring System,2016,Puse,positive
+BasePaper,2016_24_3,Pancreatic cancer—critical examination of the Global Research Architecture and Recent Scientific Developments,2016,Puse,neutral
+BasePaper,2016_52_6,Optimizing the Research Potentials of a University: the Case of the University of Port Harcourt,2016,Puse,neutral
+BasePaper,2016_48_7,Penalty-based and other representations of economic inequality,2016,Puse,positive
+BasePaper,2016_42_2,Validity of Basing Authors' Publication Strategy on Journal Impact Factors,2016,Puse,neutral
+BasePaper,2016_51_3,Associations Between Academic Rank and Advanced Bibliometric Indices Among United States Academic Radiologists,2016,Puse,positive
+BasePaper,2016_32_3,Performance benchmarks for scholarly metrics associated with fisheries and wildlife faculty,2016,Puse,positive
+BasePaper,2016_14_3,Three novel indirect indicators for the assessment of papers and authors based on generations of citations,2016,Puse,neutral
+BasePaper,2016_31_8,A multi-objective particle swarm optimization for the submission decision process,2016,Puse,positive
+BasePaper,2016_38_1,Aspect-Level Influence Discovery from Graphs,2016,Puse,positive
+BasePaper,2016_49_7,Comparative Study of Trace Metrics between Bibliometrics and Patentometrics,2016,Puse,positive
+BasePaper,2016_2_4,Bibliometrics: tracking research impact by selecting the appropriate metrics,2016,Puse,positive
+BasePaper,2016_41_10,Open Medicine Journal,2016,Puse,positive
+BasePaper,2016_31_7,A triangular model for publication and citation statistics of individual authors,2016,Puse,positive
+BasePaper,2016_29_7,A systematic literature review of multicriteria and multi-objective models applied in risk management,2016,Puse,positive
+BasePaper,2016_21_5,A ranking of journals for the aspiring health economist,2016,Puse,positive
+BasePaper,2016_22_8,Estado del indicador h5 en revistas colombianas de ingeniería,2016,Puse,positive
+BasePaper,2016_25_4,The impact of college teaching on students' academic and labor market outcomes,2016,Puse,positive
+BasePaper,2016_42_9,SCIENTIFIC OUTPUT ON CARDIOLOGY AND SPORT: RANKING OF JOURNALS (2010) AND EXCELLENCE,2016,Puse,positive
+BasePaper,2016_48_2,RESEARCH ON QUALITY MANAGEMENT IN SOUTHEASTERN EUROPE: A BIBLIOMETRIC STUDY,2016,Puse,positive
+BasePaper,2016_49_10,Trends in Literature About Emerging Adulthood: Review of Empirical Studies,2016,Puse,neutral
+BasePaper,2016_5_8,Predicting the impact of scientific concepts using full?text features,2016,Puse,positive
+BasePaper,2016_36_9,Publication Productivity for Academic Ophthalmologists and Academic Ophthalmology Departments in the United States: an Analytical Report,2016,Puse,neutral
+BasePaper,2016_46_5,"Development of obstetrical and gynecological journals, 2007 to 2013: a trend analysis.",2016,Puse,neutral
+BasePaper,2016_49_5,Technology identification of South-South cooperation on Climate change of developing countries: A case of the countries along OBOR,2016,Puse,neutral
+BasePaper,2016_12_1,"Survey about citation context analysis: Tasks, techniques, and resources",2016,Puse,positive
+BasePaper,2016_21_2,Do Hirsch-type indices behave the same in assessing single publications? An empirical study of 29 bibliometric indicators,2016,Puse,positive
+BasePaper,2016_9_7,Recent trends in academic journal growth,2016,Puse,neutral
+BasePaper,2016_7_4,Fielding supranationalism: the European Central Bank as a field effect,2016,Puse,positive
+BasePaper,2016_23_10,Altmetrics for medical educators,2016,Puse,positive
+BasePaper,2016_47_4,How to improve a team's position in the FIFA ranking? A simulation study,2016,Puse,positive
+BasePaper,2016_1_2,The natural selection of bad science,2016,Puse,neutral
+BasePaper,2016_52_5,Updated page rank of dynamically generated research authors' pages: A new idea,2016,Puse,positive
+BasePaper,2016_46_4,A bibliometric analysis of operations research and management science,2016,Puse,neutral
+BasePaper,2016_43_5,Expert team finding for review assignment,2016,Puse,positive
+BasePaper,2016_31_9,Making Sense of Indices and Impact Numbers: Establishing Leading EGOV Scholars'“Signatures”,2016,Puse,positive
+BasePaper,2016_19_6,Why replication studies are essential: learning from failure and success,2016,Puse,negative
+BasePaper,2016_26_3,A Bibliographic Analysis and Collaboration Patterns of IEEE Transactions on Intelligent Transportation Systems Between 2000 and 2015,2016,Puse,neutral
+BasePaper,2016_42_8,The Ranking of Researchers by Publications and Citations: Using RePEc Data,2016,Puse,positive
+BasePaper,2016_55_10,Scholarly Output Graph: A Graphical Article-Level Metric Indicating the Impact of a Scholar's Publications,2016,Puse,positive
+BasePaper,2016_29_4,Do first rate scientists work at first rate organizations?,2016,Puse,positive
+BasePaper,2016_39_10,How do you write and present research well? 18—Publish and flourish,2016,Puse,positive
+BasePaper,2016_26_4,Knowledge dissemination of intimate partner violence intervention studies measured using alternative metrics: results from a scoping review,2016,Puse,neutral
+BasePaper,2016_41_3,Assessing Impact of Citation Laureates Using Improved Dimensions of h-index,2016,Puse,positive
+BasePaper,2016_62_2,The role of relational capital in knowledge diffusion: Emotional labor research as an example,2016,Puse,positive
+BasePaper,2016_26_2,Diabetes management in long-term care: an exploratory study of the current practices and processes to managing frail elderly persons with type 2 diabetes,2016,Puse,neutral
+BasePaper,2016_15_1,"Relationships between consumption, publication and impact in French universities in a value perspective: a bibliometric analysis",2016,Puse,positive
+BasePaper,2016_14_10,"Characteristics and trends of research on waste-to-energy incineration: a bibliometric analysis, 1999–2015",2016,Puse,negative
+BasePaper,2016_32_1,Academic Productivity of Accreditation Council for Graduate Medical Education–Accredited Critical Care Fellowship Program Directors,2016,Puse,neutral
+BasePaper,2016_43_3,A perspective on problems and prospects for academic publishing in Geography,2016,Puse,positive
+BasePaper,2016_29_5,Predicting citation patterns: defining and determining influence,2016,Puse,positive
+BasePaper,2016_54_1,STATE-OF-THE-ART REPORT,2016,Puse,positive
+BasePaper,2016_57_9,Absorptive Capacity and Innovation: An Overview of International Scientific Production of Last Twenty-Five Years,2016,Puse,positive
+BasePaper,2016_46_10,Is There a Role for Narrative Attributes in Scientific Literature?,2016,Puse,neutral
+BasePaper,2016_12_7,The role of research efficiency in the evolution of scientific productivity and impact: An agent-based model,2016,Puse,negative
+BasePaper,2016_44_6,The construct validity of the h-index,2016,Puse,positive
+BasePaper,2016_17_7,"Measuring research impact: bibliometrics, social media, altmetrics, and the BJGP",2016,Puse,positive
+BasePaper,2016_38_10,"Chérifa Boukacem-Zeghmouri, Pascal",2016,Puse,positive
+BasePaper,2016_53_6,Measuring the Effect of Topic Drift in Scholarly Networks,2016,Puse,positive
+BasePaper,2016_8_5,The next bibliometrics: ALMetrics (Author Level Metrics) and the multiple faces of author impact,2016,Puse,positive
+BasePaper,2016_38_2,Image conscious: Visualizing scholarly reputation,2016,Puse,positive
+BasePaper,2016_56_10,"Higher education, high-impact research, and world university rankings: A case of India and comparison with China",2016,Puse,positive
+BasePaper,2016_8_10,Scientometric Analysis of Scientific Validity of Medical Archives Regarding Other Medical Journals in Bosnia and Herzegovina,2016,Puse,positive
+BasePaper,2016_11_7,State of research on public service management: Identifying scientific gaps from a bibliometric study,2016,Puse,positive
+BasePaper,2016_47_3,g-index as an improvement of the h-index: A comparative study of prominent Indian scientists.,2016,Puse,positive
+BasePaper,2016_39_3,Crowdsourced science: sociotechnical epistemology in the e-research paradigm,2016,Puse,positive
+BasePaper,2016_24_1,H-crystal as a Core Structure in Multilayer Weighted Networks,2016,Puse,positive
+BasePaper,2016_19_5,"Is there an impending loss of academically productive trauma surgical faculty? An analysis of 4,015 faculty",2016,Puse,neutral
+BasePaper,2016_47_8,Analysis of h-index and other bibliometric markers of productivity and repercussion of a selected sample of worldwide emergency medicine researchers,2016,Puse,positive
+BasePaper,2016_16_7,"Web of Science, Scopus, and Google Scholar citation rates: a case study of medical physics and biomedical engineering: what gets cited and what doesn't?",2016,Puse,negative
+BasePaper,2016_49_9,A bibliometric analysis of the first thirty years of the International Journal of Intelligent Systems,2016,Puse,positive
+BasePaper,2016_24_6,An overview of the main Tunisian scientists in Chemistry and Materials Science,2016,Puse,negative
+BasePaper,2016_18_9,Ranking authors using fractional counting of citations: An axiomatic approach,2016,Puse,neutral
+BasePaper,2016_29_9,Scientific credit diffusion: Researcher level or paper level?,2016,Puse,positive
+BasePaper,2016_5_10,Academic research in innovation: a country analysis,2016,Puse,neutral
+BasePaper,2016_38_7,The Power to Influence: An Informetric Analysis of the Works of Hope Olson.,2016,Puse,neutral
+BasePaper,2016_7_6,What do altmetrics counts mean? A plea for content analyses,2016,Puse,positive
+BasePaper,2016_56_4,"Collectively, we need to accelerate Arctic specimen sampling.",2016,Puse,positive
+BasePaper,2016_48_3,The Market for Learning,2016,Puse,positive
+BasePaper,2016_59_4,Bibliographic database analysis: citation graphs and indirect indicators,2016,Puse,positive
+BasePaper,2016_49_6,–Research Assessment,2016,Puse,positive
+BasePaper,2016_50_4,"Evaluating innovation investment outcomes of government venture funding: a longitudinal, multi-level, multi-source analysis of small firms in the US",2016,Puse,positive
+BasePaper,2016_36_4,Empirical and theoretical consequences of using the Euclidean Index for assessing individual scholarly impact,2016,Puse,positive
+BasePaper,2016_45_4,"Fabrício Benevenuto, Alberto",2016,Puse,positive
+BasePaper,2016_8_7,A critique of the bucket classification of journals: The ABDC list as an example,2016,Puse,positive
+BasePaper,2016_14_7,Beware the impact factor,2016,Puse,positive
+BasePaper,2016_13_1,"Career development tips for today's nursing academic: bibliometrics, altmetrics and social media",2016,Puse,positive
+BasePaper,2016_55_9,Classification of Serbian texts based on lexical characteristics and multivariate statistical analysis,2016,Puse,positive
+BasePaper,2016_53_4,"Publishing in the Surgical Arena; Why, How and Where?",2016,Puse,positive
+BasePaper,2016_4_5,Quantifying the life cycle of scholarly articles across fields of economic research,2016,Puse,positive
+BasePaper,2016_39_9,Two Decades of Research Collaboration: A Keyword Scopus Evaluation,2016,Puse,positive
+BasePaper,2016_14_9,Gazing at the skyline for star scientists,2016,Puse,positive
+BasePaper,2016_33_7,The impact of a researcher's structural position on scientific performance: An empirical analysis,2016,Puse,positive
+BasePaper,2016_46_9,Identifying important nodes in scientific publications using co-authorship network,2016,Puse,positive
+BasePaper,2016_10_2,The evolution of peer review as a basis for scientific publication: directional selection towards a robust discipline?,2016,Puse,positive
+BasePaper,2016_40_8,Inquiring the niche determinants of social media websites in dynamically mobile hypercompetitive communication era,2016,Puse,positive
+BasePaper,2016_19_9,"Rankings scientists, journals and countries using h-index",2016,Puse,negative
+BasePaper,2016_10_10,Bibliometric overview of business & economics research,2016,Puse,positive
+BasePaper,2016_57_7,On The Accuarcy of H-index,2016,Puse,positive
+BasePaper,2016_22_5,Demographic and Personal Characteristics of Male and Female Chairs in Academic Psychiatry.,2016,Puse,neutral
+BasePaper,2016_14_4,An improved approach to identifying key classes in weighted software network,2016,Puse,neutral
+BasePaper,2016_26_8,Hirsch index value and variability related to general surgery in a UK deanery,2016,Puse,positive
+BasePaper,2016_30_7,All fingers are not equal: Intensity of references in scientific articles,2016,Puse,neutral
+BasePaper,2016_16_4,Associations between NIH funding and advanced bibliometric indices among radiological investigators,2016,Puse,positive
+BasePaper,2016_55_4,Are women properly represented in scientific publication and research? Interim results from a Spanish case study in Earth Sciences,2016,Puse,neutral
+BasePaper,2016_60_6,Bibliometric Index for Academic Leadership,2016,Puse,neutral
+BasePaper,2016_38_3,New Definitions and Applications of Year-Based h-indices,2016,Puse,positive
+BasePaper,2016_53_1,Introduction to the Special,2016,Puse,positive
+BasePaper,2016_46_1,Global pattern of science funding in economics,2016,Puse,neutral
+BasePaper,2016_26_7,Research collaboration among Library and Information Science schools in South Africa (1991–2012): an informetrics study,2016,Puse,positive
+BasePaper,2016_14_5,Bibliometric analysis of medicine-related publications on poverty (2005–2015),2016,Puse,positive
+BasePaper,2016_58_5,The positive association of Association for Academic Surgery membership with academic productivity,2016,Puse,positive
+BasePaper,2016_36_2,"Scientometric mapping of veterinary research at Sokoine University of Agriculture, Tanzania",2016,Puse,positive
+BasePaper,2016_2_2,Quantifying the evolution of individual scientific impact,2016,Puse,negative
+BasePaper,2016_4_10,"Set functions, games and capacities in decision making",2016,Puse,positive
+BasePaper,2016_56_8,"A Graph Analytics Framework for Ranking Authors, Papers and Venues",2016,Puse,positive
+BasePaper,2016_26_9,Research performance measures and the moderating role of faculty characteristics in epidemiology,2016,Puse,positive
+BasePaper,2016_46_8,A commentary on evaluation of the evenness score in next-generation sequencing,2016,Puse,positive
+BasePaper,2016_38_4,Measuring field-normalized impact of papers on specific societal groups: An altmetrics study based on Mendeley Data,2016,Puse,positive
+BasePaper,2016_13_7,"Assessing global, regional, national and sub–national capacity for public health research: a bibliometric analysis of the Web of ScienceTM in 1996–2010",2016,Puse,positive
+BasePaper,2016_9_9,Trends and topics in eye disease research in PubMed from 2010 to 2014,2016,Puse,neutral
+BasePaper,2016_3_9,Contribution of Arab countries to pharmaceutical wastewater literature: a bibliometric and comparative analysis of research output,2016,Puse,neutral
+BasePaper,2016_42_7,A Decade of Biomedical Research in West Africa (2005–14): A Bibliometric Analysis of the Ten Most Productive Countries in Medline,2016,Puse,positive
+BasePaper,2016_44_2,Communication and Measurement of Scientific Information Using Social Media,2016,Puse,positive
+BasePaper,2016_53_8,Literature Review of Wine Tourism Research: Bibliometric Analysis (1984–2014),2016,Puse,neutral
+BasePaper,2016_55_5,Estimating the partnership ability of Scientometrics journal authors based on WoS from 2001 to 2013 according to ?-index1,2016,Puse,neutral
+BasePaper,2016_29_3,Measuring the robustness of the journal h-index with respect to publication and citation values: A Bayesian sensitivity analysis,2016,Puse,positive
+BasePaper,2016_48_8,The power of comments: fostering social interactions in microblog networks,2016,Puse,positive
+BasePaper,2016_36_10,Moving beyond traditional electronic design automation: Data-driven design of analog circuits,2016,Puse,negative
+BasePaper,2016_44_5,Linguistics Unlimited and the need for open access science: An editorial,2016,Puse,positive
+BasePaper,2016_27_2,Assessing the bibliometric productivity of forest scientists in Italy,2016,Puse,neutral
+BasePaper,2016_32_7,"Innovation capacity in the healthcare sector and historical anchors: examples from the UK, Switzerland and the US",2016,Puse,neutral
+BasePaper,2016_60_8,Can Novices Create Alternatives of the Same Quality as Experts?,2016,Puse,positive
+BasePaper,2016_13_9,Scientometric Dilemma: Is H-index Adequate for Scientific Validity of Academic's Work?,2016,Puse,positive
+BasePaper,2016_10_4,On Modeling and Predicting Individual Paper Citation Count over Time.,2016,Puse,positive
+BasePaper,2016_18_4,A validation of the individual annual h-index (hIa): application of the hIa to a qualitatively and quantitatively different sample,2016,Puse,negative
+BasePaper,2016_6_7,Surgical trainee research collaboratives in the UK: an observational study of research activity and publication productivity,2016,Puse,positive
+BasePaper,2016_10_3,Scientometric analysis: A technical need for medical science researchers either as authors or as peer reviewers,2016,Puse,neutral
+BasePaper,2016_33_6,Normalizing the g-index,2016,Puse,negative
+BasePaper,2016_43_8,Factors influencing knowledge transfer from faculty to PhD students,2016,Puse,neutral
+BasePaper,2016_58_6,MetaScience: An Holistic Approach for Research Modeling.,2016,Puse,positive
+BasePaper,2016_12_2,Electronic markets on the impact factor,2016,Puse,neutral
+BasePaper,2016_16_6,Evaluating the patenting activities of pharmaceutical research organizations based on new technology indices,2016,Puse,negative
+BasePaper,2016_16_5,3c-index: Research contribution across communities as an influence indicator,2016,Puse,positive
+BasePaper,2016_37_1,The Publication Output and Impact of various Faculties in Sri Lankan Universities: a Scientometric Assessment and Policy Implications,2016,Puse,positive
+BasePaper,2016_1_9,ResearchGate: An effective altmetric indicator for active researchers?,2016,Puse,positive
+BasePaper,2016_42_6,Inferring authorship from publications: an axiomatic study,2016,Puse,positive
+BasePaper,2016_1_4,The H-index of a network node and its relation to degree and coreness,2016,Puse,positive
+BasePaper,2016_41_8,Molecular Similarity Approaches in Chemoinformatics: Early History and Literature Status,2016,Puse,positive
+BasePaper,2016_47_2,ECO-labels as a multidimensional research topic: Trends and opportunities,2016,Puse,positive
+BasePaper,2016_3_10,A bibliometric analysis of 20 years of research on software product lines,2016,Puse,neutral
+BasePaper,2016_9_1,Genetic algorithms and Gaussian Bayesian networks to uncover the predictive core set of bibliometric indices,2016,Puse,neutral
+BasePaper,2016_38_6,A bibliometric analysis of 50 years of worldwide research on statistical process control,2016,Puse,negative
+BasePaper,2016_31_3,Using Bibliometric Big Data to Analyze Faculty Research Productivity in Health Policy and Management,2016,Puse,neutral
+BasePaper,2016_58_8,Scientific output of professors and doctors habilitatus from Medical University of Silesia in Katowice–School of Medicine with Division of Dentistry in Zabrze,2016,Puse,neutral
+BasePaper,2016_1_8,Virtual and remote labs in education: A bibliometric analysis,2016,Puse,positive
+BasePaper,2016_30_2,Quantifying the impact of research for tenure and promotion in family and consumer sciences,2016,Puse,positive
+BasePaper,2016_56_5,Ranking Scholars: A Measure Representation,2016,Puse,neutral
+BasePaper,2016_12_5,Simplified Relative Citation Ratio for Static Paper Ranking: UFMG/LATIN at WSDM Cup 2016,2016,Puse,positive
+BasePaper,2016_27_1,The transforming power of early career acute care surgery research scholarships on academic productivity,2016,Puse,neutral
+BasePaper,2016_5_1,Scientific eminence: Where are the women?,2016,Puse,negative
+BasePaper,2016_18_8,Professional competencies and jurisdictional claims in evaluative bibliometrics: The educational mandate of academic librarians,2016,Puse,positive
+BasePaper,2016_37_9,Identification and characterization of super-spreaders from voluminous epidemiology data,2016,Puse,negative
+BasePaper,2016_52_4,An Exploration of Mendeley Reader and Google Scholar Citation for Analysing Indexed Article,2016,Puse,positive
+BasePaper,2016_17_8,Quality in model-driven engineering: a tertiary study,2016,Puse,negative
+BasePaper,2016_2_3,Robust ranking of journal quality: An application to economics,2016,Puse,positive
+BasePaper,2016_51_5,Do we really need BIBLIO-metrics to evaluate individual researchers?,2016,Puse,positive
+BasePaper,2016_32_8,"International conferences on computer system: Analysis of EuroSys, SOSP, and OSDI during 2006-2014",2016,Puse,positive
+BasePaper,2016_30_4,An expanding and shifting focus in recent environmental health literature: a quantitative Bibliometric study,2016,Puse,positive
+BasePaper,2016_20_5,Scientific Outputs of Guilan University of Medical Sciences in Scopus Database Based on Scientometrics Indicators,2016,Puse,positive
+BasePaper,2016_16_2,"A critical review of the development, current hotspots, and future directions of Lake Taihu research from the bibliometrics perspective",2016,Puse,positive
+BasePaper,2016_31_4,Constructing conceptual trajectory maps to trace the development of research fields,2016,Puse,positive
+BasePaper,2016_42_4,Variation in Citation Based Fractional Counting of Authorship,2016,Puse,positive
+BasePaper,2016_32_6,"JPSSM since the beginning: intellectual cornerstones, knowledge structure, and thematic developments",2016,Puse,positive
+BasePaper,2016_39_6,Ten simple rules for structuring papers,2016,Puse,negative
+BasePaper,2016_59_1,A Bibliometric Assessment of Global Ice Bucket Challenge (Amyotrophic Lateral Sclerosis) Research,2016,Puse,neutral
+BasePaper,2016_50_5,Development and implementation of research placement programme for the organisations undergraduate students in the research group.,2016,Puse,positive
+BasePaper,2016_19_3,Internal structure and dynamic decisions for coalitions on graphs,2016,Puse,neutral
+BasePaper,2016_2_8,Dengue research: a bibliometric analysis of worldwide and Arab publications during 1872–2015,2016,Puse,positive
+BasePaper,2016_24_10,Trends in pleural effusion research: a bibliometric analysis from the scopus database,2016,Puse,neutral
+BasePaper,2016_18_2,What makes some fisheries references highly cited?,2016,Puse,neutral
+BasePaper,2016_25_1,On the Value and Use of Metrics and Rankings: a Position Paper.,2016,Puse,positive
+BasePaper,2016_11_3,Pancreatitis: global research activities and gender imbalances: a scientometric approach using density-equalizing mapping,2016,Puse,positive
+BasePaper,2016_3_8,The discretised lognormal and hooked power law distributions for complete citation data: Best options for modelling and regression,2016,Puse,positive
+BasePaper,2016_51_7,Building an Entrepreneurship Research Record Worthy of Promotion,2016,Puse,neutral
+BasePaper,2016_18_5,A novel approach to identify the major research themes and development trajectory: The case of patenting research,2016,Puse,positive
+BasePaper,2016_50_7,"Impact Factor, h-index, i10-index and i20-index of Webology",2016,Puse,positive
+BasePaper,2016_32_4,Paving the way or pushing at open doors? A comment on Abramo and D'Angelo “Farewell to size-independent indicators”,2016,Puse,negative
+BasePaper,2016_45_10,SABRE: a method for assessing the stability of gene modules in complex tissues and subject populations,2016,Puse,positive
+BasePaper,2016_8_3,Producción científica estudiantil en revistas médicas cubanas 1995-2014. Primera etapa,2016,Puse,neutral
+BasePaper,2016_12_9,Genealogical trees of scientific papers,2016,Puse,neutral
+BasePaper,2016_1_10,A farewell to the MNCS and like size-independent indicators,2016,Puse,positive
+BasePaper,2016_46_6,A Comparison of Scientists' Arguments and School Argumentation Tasks,2016,Puse,positive
+BasePaper,2016_54_6,Quantifying the scientific output of new researchers using the zp-index,2016,Puse,negative
+BasePaper,2016_59_5,A formula to estimate a researcher9s impact by prioritizing highly cited publications,2016,Puse,positive
+BasePaper,2016_20_1,"Solving the productivity and impact puzzle: Do men outperform women, or are metrics biased?",2016,Puse,negative
+BasePaper,2016_5_6,What is a complex innovation system?,2016,Puse,positive
+BasePaper,2016_45_9,Aspects affecting the choice for scientific journal publishing,2016,Puse,positive
+BasePaper,2016_16_8,"Thinking About Data, Research Methods, and Statistical Analyses: Commentary on Sijtsma's (2014)"" Playing with Data""",2016,Puse,positive
+BasePaper,2016_13_2,Journal Rankings in Sociology: Using the H Index with Google Scholar,2016,Puse,positive
+BasePaper,2016_57_10,SERIES: SOCIOLOGY,2016,Puse,positive
+BasePaper,2016_47_10,PRESCRIPTION REGARDING HIRSCH'S INDEX: A DISTRIBUTION ANALYSIS IN MEDICINE SCHOOLS IN ROMANIA,2016,Puse,positive
+BasePaper,2016_21_6,Discovering similar Twitter accounts using semantics,2016,Puse,positive
+BasePaper,2016_20_2,Research performance and degree centrality in co-authorship networks: The moderating role of homophily,2016,Puse,neutral
+BasePaper,2016_20_4,"Hepatitis Monthly, an International Journal in the Field of Hepatology",2016,Puse,positive
+BasePaper,2016_41_2,Quantifying an individual's scientific output using the fractal dimension of the whole citation curve,2016,Puse,positive
+BasePaper,2016_49_4,Competing for impact and prestige: Deciphering the “alphabet soup” of academic publications and faculty productivity metrics,2016,Puse,positive
+BasePaper,2016_30_1,Brief alcohol intervention trials conducted by higher prestige authors and published in higher impact factor journals are cited more frequently,2016,Puse,positive
+BasePaper,2016_1_6,Relative Citation Ratio (RCR): A new metric that uses citation rates to measure influence at the article level,2016,Puse,positive
+BasePaper,2016_35_7,Research performance of AACSB accredited institutions in Taiwan: before versus after accreditation,2016,Puse,negative
+BasePaper,2016_6_3,Assessment on the research trend of low-carbon energy technology investment: A bibliometric analysis,2016,Puse,positive
+BasePaper,2016_27_5,Demographics and scholarly productivity of American Board of Anesthesiology Volunteers: Results of an internet-based bibliometric analysis,2016,Puse,neutral
+BasePaper,2016_24_4,"H?classic: a new method to identify classic articles in Implant Dentistry, Periodontics, and Oral Surgery",2016,Puse,positive
+BasePaper,2016_55_8,Four essays on the axiomatic method: cooperative game theory and scientometrics,2016,Puse,neutral
+BasePaper,2016_37_2,Gauging a Firm's Innovative Performance Using an Integrated Structural Index for Patents,2016,Puse,positive
+BasePaper,2016_44_3,The Knowledge Produced by Scientific Space Missions: A First Economic Analysis—Focus on Italian Missions in the Field of Astrophysics of High Energy and Particles,2016,Puse,neutral
+BasePaper,2016_26_1,High-impact social work scholars: A bibliometric examination of SSWR and AASWSW fellows,2016,Puse,positive
+BasePaper,2016_9_4,Benchmarking the scientific output of industrial wastewater research in Arab world by utilizing bibliometric techniques,2016,Puse,positive
+BasePaper,2016_17_5,Rotavirus–global research density equalizing mapping and gender analysis,2016,Puse,positive
+BasePaper,2016_41_7,Scientometric portrait of Prof. Rudovick R. Kazwala: a public health veterinarian,2016,Puse,positive
+BasePaper,2016_25_2,Impact of mutual influence while ranking authors in a co-authorship network,2016,Puse,positive
+BasePaper,2016_7_3,Taking Advantage of Citation Measures of Scholarly Impact: Hip Hip h Index!,2016,Puse,positive
+BasePaper,2016_58_10,SCIENTOMETRIC MAPPING OF RESEARCH ON LIBRARY CONSORTIA,2016,Puse,positive
+BasePaper,2016_29_8,A comparison of university performance scores and ranks by MNCS and FSS,2016,Puse,positive
+BasePaper,2016_59_10,Study of Scientific Production of Community Medicines' Department Indexed in ISI Citation Databases,2016,Puse,positive
+BasePaper,2016_42_3,Beyond impact: What to be considered?,2016,Puse,neutral
+BasePaper,2016_4_7,Global research trends of Middle East respiratory syndrome coronavirus: a bibliometric analysis,2016,Puse,positive
+BasePaper,2016_51_9,Are returns to research quality lower in agricultural economics than in economics?,2016,Puse,positive
+BasePaper,2016_32_2,An Analysis of the Research Contributions of Advances in Accounting Behavioral Research: 1998–2012,2016,Puse,positive
+BasePaper,2016_51_6,"Looking Backward, Moving Forward",2016,Puse,neutral
+BasePaper,2016_6_8,"The good, the bad, and the ugly: which Australian terrestrial mammal species attract most research?",2016,Puse,positive
+BasePaper,2016_55_6,Impact of the Legend Shiyali Ramamrita Ranganathan's Cited Research Articles through Google Scholar,2016,Puse,neutral
+BasePaper,2016_15_2,Designing a Composite Index for research performance evaluation at the national or regional level: ranking Central Universities in India.,2016,Puse,positive
+BasePaper,2016_4_6,Longitudinal analysis of gender differences in academic productivity among medical faculty across 24 medical schools in the United States,2016,Puse,neutral
+BasePaper,2016_32_9,How Connected are the ACM SIG Communities?,2016,Puse,negative
+BasePaper,2016_39_4,Is belongingness the key to increasing student wellness and success? A longitudinal field study of a social-psychological intervention and a university's  …,2016,Puse,positive
+BasePaper,2016_10_1,Analyzing highly cited papers in Intelligent Transportation Systems,2016,Puse,positive
+BasePaper,2016_50_2,Contribution of Anales de Pediatría to the international visibility of Spanish paediatric research in the Web of Science (2010–2014),2016,Puse,positive
+BasePaper,2016_27_9,""" Smart Girls"" versus"" Sleeping Beauties"" in the Sciences: The Identification of Instant and Delayed Recognition by Using the Citation Angle",2016,Puse,positive
+BasePaper,2016_52_3,Pediatric Academic Productivity: Pediatric Benchmarks for the h-and g-Indices,2016,Puse,neutral
+BasePaper,2016_20_6,Leveraging citation networks to visualize scholarly influence over time,2016,Puse,positive
+BasePaper,2016_19_1,Bibliometric indicators in the context of regional repositories: proposing the D-index,2016,Puse,positive
+BasePaper,2016_41_9,State of the h5 indicator for Colombian engineering journals,2016,Puse,positive
+BasePaper,2016_1_1,A review of the literature on citation impact indicators,2016,Puse,positive
+BasePaper,2016_70_9,Higher-Order Networks in Complex Systems: Temporality and Interconnectivity,2016,Puse,negative
+BasePaper,2016_4_2,WSDM cup 2016: Entity ranking challenge,2016,Puse,positive
+BasePaper,2016_22_4,Outcomes of the memorial sloan kettering cancer center international general surgical oncology fellowship,2016,Puse,neutral
+BasePaper,2016_26_5,driven classification and ranking in higher education: an empirical appraisal of a Romanian policy experience.,2016,Puse,neutral
+BasePaper,2016_25_5,Simple yet effective methods for large-scale scholarly publication ranking,2016,Puse,positive
+BasePaper,2016_13_8,CocaRank: a collaboration caliber-based method for finding academic rising stars,2016,Puse,negative
+BasePaper,2016_17_6,Intrinsic and extrinsic science: A dialectic of scientific fame,2016,Puse,positive
+BasePaper,2016_22_6,Performance anxiety in academia: Tensions within research assessment exercises in an age of austerity,2016,Puse,positive
+BasePaper,2016_25_10,Patient safety: the landscape of the global research output and gender distribution,2016,Puse,positive
+BasePaper,2016_52_10,Citation and the Hidden Authority,2016,Puse,positive
+BasePaper,2016_2_5,Introducing CitedReferencesExplorer (CRExplorer): A program for reference publication year spectroscopy with cited references standardization,2016,Puse,positive
+BasePaper,2016_10_8,Giving credit where credit's due: Why it's so hard to do in psychological science,2016,Puse,positive
+BasePaper,2016_53_7,Identifying the Academic Rising Stars,2016,Puse,positive
+BasePaper,2016_30_10,Detection of Computer-Generated Papers in Scientific Literature,2016,Puse,positive
+BasePaper,2016_36_3,New Method to Evaluate Academic Journals: Case Study of Mathematics Journals,2016,Puse,positive
+BasePaper,2016_40_4,PUBLICATION OUTLETS FOR SCHOOL PSYCHOLOGY FACULTY: 2010 to 2015,2016,Puse,positive
+BasePaper,2016_7_7,The impact of national institutes of health funding on scholarly productivity in academic plastic surgery,2016,Puse,positive
+BasePaper,2016_4_3,Power quality techniques research worldwide: A review,2016,Puse,positive
+BasePaper,2016_4_9,How to measure the quality of financial tweets,2016,Puse,positive
+BasePaper,2016_41_4,Assessed by Library and Information Science Faculty,2016,Puse,positive
+BasePaper,2016_39_1,An example of automating data sharing through authoring tools,2016,Puse,positive
+BasePaper,2016_40_1,Academic productivity of faculty associated with microsurgery fellowships,2016,Puse,positive
+BasePaper,2016_7_8,Model-based evaluation of scientific impact indicators,2016,Puse,positive
+BasePaper,2016_51_10,Technologies in Facilitating Professional Growth and Capacity Building,2016,Puse,positive
+BasePaper,2016_43_9,Scientific production of Shahid Beheshti University of Medical Sciences in Web of Science between 2011-2014,2016,Puse,positive
+BasePaper,2016_42_10,"Topics in Statistical Physics: Protein Stability, Non-Equilibrium Thermodynamics and Bibliometrics",2016,Puse,positive
+BasePaper,2016_59_2,SCHOLARLY IMPACT?,2016,Puse,positive
+BasePaper,2016_53_5,Collaboration network of knowledge creation and dissemination on Management research: ranking the leading institutions,2016,Puse,negative
+BasePaper,2016_27_6,Reviewing the research methods literature: principles and strategies illustrated by a systematic overview of sampling in qualitative research,2016,Puse,positive
+BasePaper,2016_32_5,Bibliometric Tools for Discovering Information in Database,2016,Puse,positive
+BasePaper,2016_49_2,What do citation patterns reveal about the outdoor education field? A snapshot 2000-2013,2016,Puse,positive
+BasePaper,2016_33_2,The impact of author-selected keywords on citation counts,2016,Puse,positive
+BasePaper,2016_44_4,Predicting Citation Patterns,2016,Puse,positive
+BasePaper,2016_30_9,Scholarly Productivity of School Psychology Faculty Members in Specialist-Level Programs: 2002-2011.,2016,Puse,neutral
+BasePaper,2016_3_1,How to count citations if you must,2016,Puse,positive
+BasePaper,2016_21_1,Accounting research: A bibliometric analysis,2016,Puse,positive
+BasePaper,2016_1_5,Vital nodes identification in complex networks,2016,Puse,positive
+BasePaper,2016_16_9,Co-authorship networks and scientific performance: an empirical analysis using the generalized extreme value distribution,2016,Puse,negative
+BasePaper,2016_19_8,A computational literature review of the technology acceptance model,2016,Puse,negative
+BasePaper,2016_21_3,Is open access the solution to increase the impact of scientific journals?,2016,Puse,positive
+BasePaper,2016_17_3,Publishing trends in library and information sciences across European countries and institutions,2016,Puse,positive
+BasePaper,2016_11_8,Multiple citation indicators and their composite across scientific disciplines,2016,Puse,positive
+BasePaper,2016_43_2,"A quantitative assessment of “chikungunya” research publications, 2004-2013",2016,Puse,neutral
+BasePaper,2016_45_6,A Bayesian h?index: How to measure research impact,2016,Puse,positive
+BasePaper,2016_33_1,A performance indicator for academic communities based on external publication profiles,2016,Puse,neutral
+BasePaper,2016_8_8,Academic productivity of neurosurgeons working in the United Kingdom: insights from the H-index and its variants,2016,Puse,positive
+BasePaper,2016_52_1,Are you overpaying your academic executive team? A method for detecting unmerited academic executive compensation,2016,Puse,positive
+BasePaper,2016_3_6,Impact factor of medical education journals and recently developed indices: Can any of them support academic promotion criteria?,2016,Puse,positive
+BasePaper,2016_3_5,Can scientific impact be predicted?,2016,Puse,negative
+BasePaper,2016_18_1,Author self-citation in the otolaryngology literature: a pilot study,2016,Puse,neutral
+BasePaper,2016_44_9,A Bibliometric Analysis of Health and Medical Journals: Issues in Medical Scholarly Communication in Africa,2016,Puse,positive
+BasePaper,2016_48_9,Reverberation index: a novel metric by which to quantify the impact of a scientific entity on a given field,2016,Puse,positive
+BasePaper,2016_67_1,Automatic role detection in online forums,2016,Puse,positive
+BasePaper,2016_48_5,A Scientist's Impact over Time: The Predictive Power of Clustering with Peers,2016,Puse,positive
+BasePaper,2016_7_1,Where the sun shines: industry's payments to transplant surgeons,2016,Puse,positive
+BasePaper,2016_26_10,Multi-dimension reviewer credibility quantification across diverse travel communities,2016,Puse,negative
+BasePaper,2016_5_3,Identifying research topic development in business and management education research using legitimation code theory,2016,Puse,positive
+BasePaper,2016_38_9,Working in the Research Maze: At What Price?,2016,Puse,neutral
+BasePaper,2016_30_3,Identifying anomalous citations for objective evaluation of scholarly article impact,2016,Puse,negative
+BasePaper,2016_8_2,Research infrastructures in the LHC era: a scientometric approach,2016,Puse,neutral
+BasePaper,2016_29_6,Narrative style influences citation frequency in climate change science,2016,Puse,positive
+BasePaper,2016_24_5,Topic-adjusted visibility metric for scientific articles,2016,Puse,positive
+BasePaper,2016_36_5,Citation Classics in Social Policy Journals,2016,Puse,positive
+BasePaper,2016_27_10,A bibliometric-based evaluation on environmental research in the Arab world,2016,Puse,positive
+BasePaper,2016_15_4,Using h-cores to study the most-cited articles of the twenty-first century.,2016,Puse,neutral
+BasePaper,2016_5_4,Evaluating paper and author ranking algorithms using impact and contribution awards,2016,Puse,positive
+BasePaper,2016_53_2,"The Mathematics of Scientific Research: Scientometrics, Citation Metrics, and Impact Factors",2016,Puse,positive
+BasePaper,2016_31_2,The correlation among Y-index and other scientometric indicators,2016,Puse,positive
+BasePaper,2016_53_3,Quantitative Analysis Academic Evaluation Based on Attenuation-Mechanism,2016,Puse,positive
+BasePaper,2016_57_8,An Index to Quantify global world educational's Engineering and medical Scientific Research Output,2016,Puse,negative
+BasePaper,2016_41_1,Measuring Platform Effects in Digital Democracy,2016,Puse,positive
+BasePaper,2016_47_9,Publication impact in sponge chemical and microbial ecology,2016,Puse,positive
+BasePaper,2016_46_7,Extracting academic genealogy trees from the networked digital library of theses and dissertations,2016,Puse,positive
+BasePaper,2016_11_10,A preliminary review of influential works in data-driven discovery,2016,Puse,positive
+BasePaper,2016_3_7,Evaluating the academic trend of RFID technology based on SCI and SSCI publications from 2001 to 2014,2016,Puse,positive
+BasePaper,2016_12_8,H-index and how to improve it,2016,Puse,positive
+BasePaper,2016_30_6,Bibliometric Analysis Of R&D In The Energy Sector,2016,Puse,neutral
+BasePaper,2016_17_4,The benefits of scientific mobility and international collaboration,2016,Puse,positive
+BasePaper,2016_1_3,Research fronts in data envelopment analysis,2016,Puse,positive
+BasePaper,2016_59_3,A Bibliometric Analysis of Journals in Educational Research,2016,Puse,neutral
+BasePaper,2016_6_2,Reasons for journal impact factor changes: influence of changing source items,2016,Puse,positive
+BasePaper,2016_50_3,Ranking scholarly work based on author reputation,2016,Puse,positive
+BasePaper,2016_22_7,Clinics in Orthopedic Surgery's Evolution into an International Journal Based on Journal Metrics,2016,Puse,positive
+BasePaper,2016_27_4,"A bibliometric analysis of micro/nano-bubble related research: current trends, present application, and future prospects",2016,Puse,positive
+BasePaper,2016_15_3,Academic Librarians' knowledge of bibliometrics and altmetrics,2016,Puse,positive
+BasePaper,2016_58_7,What's in a number? Examining the effect of a dedicated research year on h-index and fellowship decision-making,2016,Puse,neutral
+BasePaper,2016_30_8,Future perspectives of sustainable manufacturing and applications based on research databases,2016,Puse,positive
+BasePaper,2016_22_2,Bradford's law: identification of the core journals for neurosurgery and its subspecialties,2016,Puse,positive
+BasePaper,2016_40_10,Improve Sentiment Analysis of Citations with Author Modelling.,2016,Puse,neutral
+BasePaper,2016_14_6,Referenced Publication Year Spectroscopy (RPYS) and Algorithmic Historiography: The Bibliometric Reconstruction of Andr\'as Schubert's {\\OE} uvre,2016,Puse,positive
+BasePaper,2016_8_9,Bibliometric analysis of literature on female genital mutilation:(1930–2015),2016,Puse,positive
+BasePaper,2016_3_4,"Similarities and contrasts of complexity, uncertainty, risks, and resilience in supply chains and temporary multi-organization projects",2016,Puse,positive
+BasePaper,2016_21_4,Promotion of the Journal of Exercise Rehabilitation to the international level based on journal metrics,2016,Puse,positive
+BasePaper,2016_51_8,Computer Science Research in Artificial Intelligence,2016,Puse,neutral
+BasePaper,2016_6_9,The research of water use in Spain,2016,Puse,positive
+BasePaper,2016_54_9,The impact of resident research publication on early-career publication success,2016,Puse,positive
+BasePaper,2016_30_5,A supply sided analysis of leading MOOC platforms and universities,2016,Puse,negative
+BasePaper,2016_14_2,Inter?rater reliability of h?index scores calculated by Web of Science and Scopus for clinical epidemiology scientists,2016,Puse,neutral
+BasePaper,2016_1_7,A relational altmetric? Network centrality on ResearchGate as an indicator of scientific impact,2016,Puse,positive
+BasePaper,2016_56_1,Research Impact of Open Access Journals in Animal Sciences,2016,Puse,positive
+BasePaper,2016_19_4,Twenty years of Czech science: A bibliometric analysis,2016,Puse,neutral
+BasePaper,2016_29_1,A critical cluster analysis of 44 indicators of author-level performance,2016,Puse,neutral
+BasePaper,2016_42_1,What makes a group fail: Modeling social group behavior in event-based social networks,2016,Puse,positive
+BasePaper,2016_5_7,Intravenous lipid emulsion as an antidote for the treatment of acute poisoning: a bibliometric analysis of human and animal studies,2016,Puse,positive
+BasePaper,2016_67_2,Work Engagement: Knowledge Diffusion Trajectory and Recent Themes,2016,Puse,negative
+BasePaper,2016_35_10,The most-cited journal in mineralogy and petrology (and what scientists can learn from baseball),2016,Puse,negative
+BasePaper,2016_15_5,Using co-authorship and citation analysis to identify research groups: a new way to assess performance,2016,Puse,positive
+BasePaper,2016_37_5,On the Various Aspects of Publishing Journal Articles and Academic Books.,2016,Puse,neutral
+BasePaper,2016_37_3,Measuring Knowledge Translation Uptake Using Citation Metrics: A Case Study of a Pan-Canadian Network of Pharmacoepidemiology Researchers,2016,Puse,neutral
+BasePaper,2016_57_4,"Theoretical Tools for Network Analysis: Game Theory, Graph Centrality, and Statistical Inference.",2016,Puse,positive
+BasePaper,2016_13_6,Network and actor attribute effects on the performance of researchers in two fields of social science in a small peripheral community,2016,Puse,positive
+BasePaper,2016_57_6,Web of Science: showing a bug today that can mislead scientific research output's prediction,2016,Puse,positive
+BasePaper,2016_52_7,Research Project: Text Engineering Tool for Ontological Scientometry,2016,Puse,positive
+BasePaper,2016_19_7,A general theory of minimal increments for Hirsch-type indices and applications to the mathematical characterization of Kosmulski-indices,2016,Puse,neutral
+BasePaper,2016_5_9,"Gender differences in publication productivity, academic rank, and career duration among US academic gastroenterology faculty",2016,Puse,neutral
+BasePaper,2016_37_4,Scientific Collaboration and Co-authorship Patterns in Knowledge Networks: Dynamics and Trends in Behavioural Economics,2016,Puse,positive
+BasePaper,2016_4_1,What effect does self-citation have on bibliometric measures in academic plastic surgery?,2016,Puse,positive
+BasePaper,2016_2_7,Professional and citizen bibliometrics: complementarities and ambivalences in the development and use of indicators—a state-of-the-art report,2016,Puse,positive
+BasePaper,2016_16_3,The stratified H-index,2016,Puse,positive
+BasePaper,2016_43_7,Instruments on large optical telescopes--A case study,2016,Puse,negative
+BasePaper,2016_48_1,Bibliometrics and academic staff assessment in Polish university libraries-current trends,2016,Puse,neutral
+BasePaper,2016_9_5,A ranking approach on large-scale graph with multidimensional heterogeneous information,2016,Puse,positive
+BasePaper,2016_59_8,Ten years of biomedical research in West Africa (2005-14): A study of the ten most productive countries (doi: https://dx. doi. org/10.22452/mjlis. vol21no2. 4),2016,Puse,positive
+BasePaper,2016_2_10,A bibliometric analysis of research on carbon tax from 1989 to 2014,2016,Puse,positive
+BasePaper,2016_27_7,A Survey on Visual Approaches for Analyzing Scientific Literature and Patents,2016,Puse,negative
+BasePaper,2016_54_2,Subject Indexing for Author Name Disambiguation: Opportunities and Challenges,2016,Puse,positive
+BasePaper,2016_20_3,Beyond the Impact Factor: measuring the international visibility of Romanian social sciences journals,2016,Puse,positive
+BasePaper,2016_10_6,"Exploring cost-benefit analysis of research, development and innovation infrastructures: an evaluation framework",2016,Puse,neutral
+BasePaper,2016_24_9,Big data analysis for financial risk management,2016,Puse,positive
+BasePaper,2016_10_9,Influential journals in health research: a bibliometric study,2016,Puse,neutral
+BasePaper,2016_52_8,Early prediction of scholar popularity,2016,Puse,positive
+BasePaper,2016_49_1,Facilitating Collaborative Knowledge Workers to Improve Organizational KPIs: Using an Organization's Process Arrangement to Facilitate Collaborative Knowledge  …,2016,Puse,negative
+BasePaper,2016_11_2,A bibliometric review on natural resource accounting during 1995–2014,2016,Puse,positive
+BasePaper,2016_22_3,Science Mapping Tools: their application to e-Government field,2016,Puse,positive
+BasePaper,2016_12_3,Use of h-index and other bibliometric indicators to evaluate research productivity outcome on Swine diseases,2016,Puse,positive
+BasePaper,2016_10_7,A framework for improving the quality of research in the biological sciences,2016,Puse,positive
+BasePaper,2016_2_9,Citation impact of women in social work: Exploring gender and research culture,2016,Puse,positive
+BasePaper,2016_7_10,How social innovation 'came to be': tracing the evolution of a contested concept,2016,Puse,negative
+BasePaper,2016_45_8,"Tianlong Zheng, Juan Wang, Qunhui Wang, Chunhong Nie, Zhining Shi",2016,Puse,positive
+BasePaper,2016_15_7,"The memory of science: Inflation, myopia, and the knowledge network",2016,Puse,positive
+BasePaper,2016_21_8,Ranking accounting journals by topical area and methodology,2016,Puse,positive
+BasePaper,2016_24_8,Two-dimensional mapping of scientific production of nations in the fields of physics and astronomy,2016,Puse,positive
+BasePaper,2016_33_3,Inciting the metric oriented humanist: Teaching bibliometrics in a faculty of humanities,2016,Puse,positive
+BasePaper,2016_9_6,Bibliometric analysis of publications on Campylobacter:(2000–2015),2016,Puse,positive
+BasePaper,2016_32_10,The Impact of Interpersonal Discrimination and Stress on Health and Performance for Early Career STEM Academicians,2016,Puse,positive
+BasePaper,2016_49_8,A Python based Regression Approach on Reliable Journal Parameters to Assess Few Scientific Impact Measures,2016,Puse,positive
+BasePaper,2016_50_1,An index for SSRN downloads,2016,Puse,positive
+BasePaper,2016_31_6,Modelling creativity: identifying key components through a corpus-based approach,2016,Puse,positive
+BasePaper,2016_9_8,Scholarly Productivity of Social Work Faculty at Historically Black Colleges and Universities: Are h-Index Scores a Suitable Measure?,2016,Puse,positive
+BasePaper,2016_40_5,"Challenges, Opportunities, and the Future of Physiological Publications in the Hype Cycle",2016,Puse,positive
+BasePaper,2016_40_7,Author Evaluation Based on H-index and Citation Response,2016,Puse,positive
+BasePaper,2016_55_2,Understanding Research Impact: A Review of Existing and Emerging Tools for Nursing,2016,Puse,negative
+BasePaper,2016_42_5,Global Trends and Performances of Publication on Sewage Sludge from 1991 to 2012,2016,Puse,positive
+BasePaper,2016_45_2,Application of h and h-type indices at meso level: A case of Malaysian engineering research,2016,Puse,positive
+BasePaper,2016_13_4,How to rank journals,2016,Puse,neutral
+BasePaper,2016_18_7,Use of dissertation data in science policy research,2016,Puse,positive
+BasePaper,2016_44_1,Why citation impact is so important for tourism researchers?,2016,Puse,positive
+BasePaper,2016_12_4,"Palaeo-sea-level and palaeo-ice-sheet databases: problems, strategies, and perspectives",2016,Puse,positive
+BasePaper,2016_15_6,Quantity and/or Quality? The Importance of Publishing Many Papers,2016,Puse,positive
+BasePaper,2016_48_4,An axiomatization of the iterated h-index and applications to sport rankings,2016,Puse,neutral
+BasePaper,2016_54_7,A national survey on small research grants and the scholarly productivity of emergency medicine physicians in Canada,2016,Puse,neutral
+BasePaper,2016_18_10,Exploiting heterogeneous scientific literature networks to combat ranking bias: Evidence from the computational linguistics area,2016,Puse,negative
+BasePaper,2016_51_2,A Comparison of Academic Output Amongst Nations,2016,Puse,negative
+BasePaper,2016_25_9,"Ten-Year Publication Trajectories of Health Services Research Career Development Award Recipients: Collaboration, Awardee Characteristics, and Productivity  …",2016,Puse,positive
+BasePaper,2016_57_2,Improve the Performance of Link Prediction Methods in Citation Network by Using H-Index,2016,Puse,positive
+BasePaper,2016_49_3,Coranking the Future Influence of Multiobjects in Bibliographic Network Through Mutual Reinforcement,2016,Puse,positive
+BasePaper,2016_16_1,Non-conventional water resources research in semi-arid countries of the Middle East,2016,Puse,positive
+BasePaper,2016_50_6,Evaluation of the quality of scientific performance of the selected countries of Southeast Europe.,2016,Puse,positive
+BasePaper,2016_15_8,Assessing public awareness of social justice documentary films based on news coverage versus social media,2016,Puse,positive
+BasePaper,2016_22_1,The effect of self-citations on the Hirsch index among full-time academic hand surgeons,2016,Puse,positive
+BasePaper,2016_23_9,Exploring project complexities and their problems: a critical review of the literature,2016,Puse,positive
+BasePaper,2016_24_7,Adawirl: A novel bayesian ranking approach for personal big-hit paper prediction,2016,Puse,positive
+BasePaper,2016_13_10,"Evaluating the productivity of VA, NIH, and AHRQ health services research career development awardees",2016,Puse,positive
+BasePaper,2016_25_6,Quality and impact of journals and authors,2016,Puse,neutral
+BasePaper,2016_40_3,PR-Index: Using the h-Index and PageRank for Determining True Impact,2016,Puse,negative
+BasePaper,2016_36_8,Academic Productivity of Interventional Pulmonology Training Programs,2016,Puse,neutral
+BasePaper,2016_14_8,Interpreting correlations between citation counts and other indicators.,2016,Puse,positive
+BasePaper,2016_5_2,Bibliometric profile of the global scientific research on autism spectrum disorders,2016,Puse,positive
+BasePaper,2016_57_3,Rims: The Research Impact Measurement Service At The University Of New South Wales,2016,Puse,positive
+BasePaper,2016_4_4,Can we predict citation counts of environmental modelling papers? Fourteen bibliographic and categorical variables predict less than 30% of the variability in citation  …,2016,Puse,positive
+BasePaper,2016_59_7,Motifs in weighted networks and their Hirsch subgraphs,2016,Puse,positive
+BasePaper,2016_52_9,Correlation between a country's centrality measures and the impact of research paper: The case of biotechnology research in Latin America,2016,Puse,neutral
+BasePaper,2016_20_9,Citation Indexes Accounting for Authorship Order in Coauthored Research—Review and New Proposal,2016,Puse,positive
+BasePaper,2016_29_10,Classic articles published by American scientists (1900–2014): a bibliometric analysis,2016,Puse,neutral
+BasePaper,2016_27_3,H-index and other Sugeno integrals: Some defects and their compensation,2016,Puse,positive
+BasePaper,2016_20_8,A theoretical evaluation of Hirsch-type bibliometric indicators confronted with extreme self-citation,2016,Puse,positive
+BasePaper,2016_7_2,Exploring features of highly productive research contexts in Asia: a comparison of knowledge production in educational leadership in Israel and Hong Kong,2016,Puse,positive
+BasePaper,2016_21_10,Individual Bibliometric Assessment@ University of Vienna: From Numbers to Multidimensional Profiles,2016,Puse,neutral
+BasePaper,2016_58_3,Exploring the h-type measure and its theoretical model in the context of e-commerce.,2016,Puse,positive
+BasePaper,2016_9_3,"The Egyptian clinical trials' registry profile: analysis of three trial registries (International Clinical Trials Registry Platform, Pan-African Clinical Trials Registry  …",2016,Puse,positive
+BasePaper,2016_31_1,Citation classification for behavioral analysis of a scientific field,2016,Puse,negative
+BasePaper,2016_8_6,Characterizing the language of online communities and its relation to community reception,2016,Puse,positive
+BasePaper,2016_33_8,Adding authorship order to the quantity and quality dimensions of scholarly productivity: evidence from group-and individual-level analyses,2016,Puse,negative
+BasePaper,2016_60_7,Citation benefit-A journal comparison metric based on full citation distributions,2016,Puse,neutral
+BasePaper,2016_13_3,Sustainable urban infrastructure: a review,2016,Puse,positive
+BasePaper,2016_51_1,A Scientometric Analysis of Research in Recommender Systems,2016,Puse,positive
+BasePaper,2016_58_2,Buzzword detection in the scientific scenario,2016,Puse,positive
+BasePaper,2016_24_2,The digitalization push in universities,2016,Puse,positive
+BasePaper,2016_25_3,From h-index to hIa: The ins and outs of research metrics,2016,Puse,positive
+BasePaper,2016_47_7,Journals in Pharmaceutical Sciences and their Quality,2016,Puse,positive
+BasePaper,2016_60_2,Can we predict citation counts of environmental modelling papers?,2016,Puse,positive
+BasePaper,2016_4_8,The structure and comparative advantages of China's scientific research: quantitative and qualitative perspectives,2016,Puse,positive
+BasePaper,2016_39_7,Research Productivity of Sports Medicine Fellowship Faculty,2016,Puse,positive
+BasePaper,2016_50_10,Which publication is your representative work?,2016,Puse,neutral
+BasePaper,2016_33_4,Five-year institutional bibliometric profiles for 119 North American neurosurgical residency programs: An update,2016,Puse,positive
+BasePaper,2016_60_10,A genre analysis of the introduction section of computer science research articles by Malaysian researchers,2016,Puse,positive
+BasePaper,2016_6_10,The top 100 most cited scientific reports focused on diabetes research,2016,Puse,positive
+BasePaper,2016_39_2,Beyond Research Productivity: Matching Productivity Measures to Institutional Mission,2016,Puse,neutral
+BasePaper,2016_6_6,"Ideational influence, connectedness, and venue representation: Making an assessment of scholarly capital",2016,Puse,positive
+BasePaper,2016_38_8,Scientific research measures,2016,Puse,positive
+BasePaper,2016_3_2,A bibliometric analysis of social entrepreneurship,2016,Puse,positive
+BasePaper,2016_32_3_co3,Standardizing the Evaluation of Scientific and Academic Performance in Neurosurgery—Critical Review of the “h” Index and its Variants,2016,neutral,neutral
+BasePaper,2016_46_7_co1,The H-index paradox: your coauthors have a higher H-index than you do,2016,neutral,neutral
+BasePaper,2016_55_3_co2,An index to quantify an individual’s scientific research output that takes into account the effect of multiple coauthorship,2016,neutral,neutral
+BasePaper,2016_57_4_co1,Detecting h-index manipulation through self-citation analysis,2016,neutral,neutral
+BasePaper,2016_7_1_co1,"An analysis of publication productivity for 1225 academic
+neurosurgeons and 99 departments in the United States",2016,neutral,neutral
+BasePaper,2016_30_10_co2,Stop the numbers game,2016,neutral,neutral
+BasePaper,2016_10_10_co1,from frequency to meaning: Vector space models of semantics,2016,neutral,neutral
+BasePaper,2016_23_10_co2,Altmetrics for medical educators,2016,neutral,neutral
+BasePaper,2016_60_3_co1,An extension of the h index that covers the tail and the top of the citation curve and allows ranking researchers with similar h,2016,neutral,neutral
+BasePaper,2016_30_10_co1,"Oracle, where shall I submit my papers?",2016,neutral,neutral
+BasePaper,2016_56_5_co1,"A modification of the h-index: The hm-index accounts for
+multi-authored manuscripts",2016,neutral,neutral
+2016_23_10_co2,2016_23_10,,2016,,
+2016_29_5,2016_44_4,,2016,,
+2016_36_4,2016_3_1,,2016,,
+2016_53_4,2016_41_10,,2016,,

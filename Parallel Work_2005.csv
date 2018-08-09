@@ -1,0 +1,18 @@
+Source,Target,Title,Year,Rhetorics,
+BasePaper,BasePaper,An index to quantify an individual's scientific research output,2005,--,--
+BasePaper,2005_1_9,Modified index to quantify individual's scientific research output,2005,Puse,positive
+BasePaper,2005_1_2,Facts from text—is text mining ready to deliver?,2005,Puse,positive
+BasePaper,2005_1_8,An index to quantify an individual's scientific research valid across disciplines,2005,Puse,positive
+BasePaper,2005_1_10,Robert Van de Walle,2005,Puse,neutral
+BasePaper,2005_1_1,A Hirsch-type index for journals,2005,Puse,neutral
+BasePaper,2005_1_6,Ten challenges to transform taxonomy,2005,Puse,positive
+BasePaper,2005_1_3,A parameter to quantify dynamics of a researcher's scientific activity,2005,Puse,positive
+BasePaper,2005_1_5,Measures and mismeasures of scientific quality,2005,Puse,positive
+BasePaper,2005_2_2,CONFERENCE CALLS,2005,Puse,positive
+BasePaper,2005_1_1_co3,On the opportunities and limitations of the H-index,2005,neutral,neutral
+BasePaper,2005_1_1_co1,Index aims for fair ranking of scientists,2005,neutral,neutral
+BasePaper,2005_1_8_co2,Biologist Helps Students Get a Leg Up on Scientific Inquiry,2005,neutral,neutral
+BasePaper,2005_1_8_co1,A parameter to quantify dynamics of a researcher’s scientific activity,2005,neutral,neutral
+2005_1_1,2005_1_10,,2005,,
+2005_1_1_co3,2005_1_1,,2005,,
+2005_1_1_co3,2005_1_1_co1,,2005,,
